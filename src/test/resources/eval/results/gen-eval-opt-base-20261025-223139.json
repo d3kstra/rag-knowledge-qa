@@ -1,0 +1,551 @@
+{
+  "summary": {
+    "source": "opt-base-20261025-223015.json",
+    "generatedAt": "20261025-223139",
+    "questions": 20,
+    "judgeModel": "qwen-plus",
+    "avgFactRecall": 1.0,
+    "avgGroundingRate": 0.993,
+    "questionsWithUngroundedNumbers": 1,
+    "questionsWithInvalidCitations": 0,
+    "questionsWithCitationsOutsideRecorded": 5,
+    "questionsWithFormNameCitations": 1,
+    "avgCorrectness": 2.5,
+    "avgFaithfulness": 2.5,
+    "avgRelevance": 2.85,
+    "questionsWithUnsupportedClaims": 5
+  },
+  "rows": [
+    {
+      "id": "E01",
+      "category": "single_hop",
+      "factRecall": 1.0,
+      "numbersTotal": 2,
+      "numbersGrounded": 2,
+      "groundingRate": 1.0,
+      "ungroundedNumbers": [],
+      "citationsTotal": 2,
+      "validCitations": [
+        "年假管理制度",
+        "职级与假期对照表"
+      ],
+      "invalidCitations": [],
+      "citationsInCorpusNotInRecorded": [],
+      "citationsAsFormOrTermName": [],
+      "contextChars": 5056,
+      "judge_correctness": 3,
+      "judge_faithfulness": 3,
+      "judge_relevance": 3,
+      "judge_unsupportedClaims": [],
+      "judge_note": "答案准确给出P4年假基准为5天，与期望事实完全一致；引用的表格内容在检索文档中多次重复出现（含文字版和表格版），且明确说明该表是《年假管理制度》第三条所指标准来源，支撑充分；直接正面回答问题，无冗余或偏移。"
+    },
+    {
+      "id": "E02",
+      "category": "single_hop",
+      "factRecall": 1.0,
+      "numbersTotal": 3,
+      "numbersGrounded": 3,
+      "groundingRate": 1.0,
+      "ungroundedNumbers": [],
+      "citationsTotal": 3,
+      "validCitations": [
+        "2023年年假管理制度",
+        "年假管理制度",
+        "年假管理规定"
+      ],
+      "invalidCitations": [],
+      "citationsInCorpusNotInRecorded": [],
+      "citationsAsFormOrTermName": [],
+      "contextChars": 4418,
+      "judge_correctness": 3,
+      "judge_faithfulness": 3,
+      "judge_relevance": 3,
+      "judge_unsupportedClaims": [],
+      "judge_note": "答案准确回答‘不可以跨年结转’，与期望事实‘不跨年’完全一致；所有论断（含三份制度原文引述）均严格源自检索内容，且‘所有现行有效版本均禁止……无例外条款’为合理归纳，未超文档范围；问题直指跨年结转可行性，答案正面、简洁、明确回应。"
+    },
+    {
+      "id": "E03",
+      "category": "single_hop",
+      "factRecall": 1.0,
+      "numbersTotal": 6,
+      "numbersGrounded": 6,
+      "groundingRate": 1.0,
+      "ungroundedNumbers": [],
+      "citationsTotal": 3,
+      "validCitations": [
+        "2023年加班与调休管理规定",
+        "加班与调休管理制度",
+        "加班餐费与通勤补贴细则"
+      ],
+      "invalidCitations": [],
+      "citationsInCorpusNotInRecorded": [],
+      "citationsAsFormOrTermName": [],
+      "contextChars": 4877,
+      "judge_correctness": 3,
+      "judge_faithfulness": 3,
+      "judge_relevance": 3,
+      "judge_unsupportedClaims": [],
+      "judge_note": "答案准确给出30元，与期望事实完全一致；所有论断（2026年制度规定3小时发30元、2025年细则印证30元/次封顶、2023年旧规已废止）均能在检索文档中直接找到原文支撑；问题明确问‘加班满3小时的餐补’，答案正面、简洁、精准回应。"
+    },
+    {
+      "id": "E04",
+      "category": "single_hop",
+      "factRecall": 1.0,
+      "numbersTotal": 2,
+      "numbersGrounded": 2,
+      "groundingRate": 1.0,
+      "ungroundedNumbers": [],
+      "citationsTotal": 1,
+      "validCitations": [
+        "远程办公管理办法"
+      ],
+      "invalidCitations": [],
+      "citationsInCorpusNotInRecorded": [],
+      "citationsAsFormOrTermName": [],
+      "contextChars": 4013,
+      "judge_correctness": 3,
+      "judge_faithfulness": 3,
+      "judge_relevance": 3,
+      "judge_unsupportedClaims": [],
+      "judge_note": "答案准确给出‘2天’，与期望事实完全一致；明确引用文档中‘远程额度’条款及适用范围，所有陈述均有原文支撑；直接正面回答问题，无冗余或偏移。"
+    },
+    {
+      "id": "E05",
+      "category": "single_hop",
+      "factRecall": 1.0,
+      "numbersTotal": 6,
+      "numbersGrounded": 6,
+      "groundingRate": 1.0,
+      "ungroundedNumbers": [],
+      "citationsTotal": 3,
+      "validCitations": [
+        "信息安全操作细则",
+        "信息安全操作细则（执行版）",
+        "信息安全管理制度"
+      ],
+      "invalidCitations": [],
+      "citationsInCorpusNotInRecorded": [],
+      "citationsAsFormOrTermName": [],
+      "contextChars": 26940,
+      "judge_correctness": 0,
+      "judge_faithfulness": 1,
+      "judge_relevance": 2,
+      "judge_unsupportedClaims": [
+        "《信息安全操作细则》中‘核心系统口令更换周期为45天，普通办公系统为180天’适用于所有员工密码管理（实则该细则明确限定为‘系统口令’，且未定义‘员工密码’是否等同于‘系统口令’；而《管理制度》第1条‘密码每90天更换一次’明确主语为‘密码’，上下文指员工账号密码）",
+        "‘90天’未在执行细则中保留，应视为已被分级要求覆盖，不作为现行有效标准（错误推断：两文件均注明‘配套执行’，且《细则》开篇声明‘术语含义一致’，并未废止《制度》的通用要求；冲突时应优先适用更高层级制度，而非默认细则覆盖制度）",
+        "问题未说明系统类型，故必须分情况作答（但问题明确问‘员工密码’，而《管理制度》第一条即定义‘密码每90天更换一次’，主语、范围、效力层级均直接匹配问题，无需额外限定）"
+      ],
+      "judge_note": "答案将‘系统口令’细则错误泛化为‘员工密码’标准，违背《管理制度》明确规定的90天统一要求；其分级结论无据且与期望事实（90天）直接矛盾，正确答案应为90天。"
+    },
+    {
+      "id": "E06",
+      "category": "single_hop",
+      "factRecall": 1.0,
+      "numbersTotal": 3,
+      "numbersGrounded": 3,
+      "groundingRate": 1.0,
+      "ungroundedNumbers": [],
+      "citationsTotal": 1,
+      "validCitations": [
+        "专项假期管理规定（婚假、产假、陪产假、丧假）"
+      ],
+      "invalidCitations": [],
+      "citationsInCorpusNotInRecorded": [],
+      "citationsAsFormOrTermName": [],
+      "contextChars": 5982,
+      "judge_correctness": 3,
+      "judge_faithfulness": 3,
+      "judge_relevance": 3,
+      "judge_unsupportedClaims": [],
+      "judge_note": "答案准确给出15天，与期望事实完全一致；所有陈述（含适用范围、废止说明、依据来源）均严格源自检索文档；直接正面回答问题，无冗余或偏移。"
+    },
+    {
+      "id": "E07",
+      "category": "single_hop",
+      "factRecall": 1.0,
+      "numbersTotal": 3,
+      "numbersGrounded": 3,
+      "groundingRate": 1.0,
+      "ungroundedNumbers": [],
+      "citationsTotal": 1,
+      "validCitations": [
+        "紧急费用审批绿色通道管理办法"
+      ],
+      "invalidCitations": [],
+      "citationsInCorpusNotInRecorded": [],
+      "citationsAsFormOrTermName": [],
+      "contextChars": 11812,
+      "judge_correctness": 3,
+      "judge_faithfulness": 3,
+      "judge_relevance": 3,
+      "judge_unsupportedClaims": [],
+      "judge_note": "答案准确指出‘3个工作日’，与期望事实完全一致；引用内容直接来自检索文档中《紧急费用审批绿色通道管理办法》第三条原文‘3个工作日内在OA系统补录《紧急费用说明单》并上传凭证’，完全忠实；问题问补录时限，答案正面、简洁、直接回应。"
+    },
+    {
+      "id": "E08",
+      "category": "single_hop",
+      "factRecall": 1.0,
+      "numbersTotal": 2,
+      "numbersGrounded": 2,
+      "groundingRate": 1.0,
+      "ungroundedNumbers": [],
+      "citationsTotal": 1,
+      "validCitations": [
+        "远程办公管理办法"
+      ],
+      "invalidCitations": [],
+      "citationsInCorpusNotInRecorded": [],
+      "citationsAsFormOrTermName": [],
+      "contextChars": 6632,
+      "judge_correctness": 3,
+      "judge_faithfulness": 3,
+      "judge_relevance": 3,
+      "judge_unsupportedClaims": [],
+      "judge_note": "答案准确复述了文档中明确规定的40%上限，完全匹配期望事实，且所有陈述均有原文直接支撑，精准回应问题。"
+    },
+    {
+      "id": "E09",
+      "category": "single_hop",
+      "factRecall": 1.0,
+      "numbersTotal": 3,
+      "numbersGrounded": 3,
+      "groundingRate": 1.0,
+      "ungroundedNumbers": [],
+      "citationsTotal": 3,
+      "validCitations": [
+        "2024年试用期管理规定",
+        "员工试用期管理办法",
+        "试用期管理办法"
+      ],
+      "invalidCitations": [],
+      "citationsInCorpusNotInRecorded": [],
+      "citationsAsFormOrTermName": [],
+      "contextChars": 4960,
+      "judge_correctness": 3,
+      "judge_faithfulness": 3,
+      "judge_relevance": 3,
+      "judge_unsupportedClaims": [],
+      "judge_note": "答案准确指出3天，与期望事实完全一致；所有论断（上海子公司规定、北京总部现行规定、2024年规定已废止）均能在检索文档中直接找到原文支撑；直接正面回答问题，无冗余或偏移。"
+    },
+    {
+      "id": "MA01",
+      "category": "multi_aspect",
+      "factRecall": 1.0,
+      "numbersTotal": 15,
+      "numbersGrounded": 15,
+      "groundingRate": 1.0,
+      "ungroundedNumbers": [],
+      "citationsTotal": 9,
+      "validCitations": [
+        "加班与调休管理制度",
+        "加班调休管理办法",
+        "年假管理制度",
+        "年假管理规定",
+        "病假管理办法",
+        "考勤管理制度",
+        "职级与假期对照表"
+      ],
+      "invalidCitations": [],
+      "citationsInCorpusNotInRecorded": [
+        "员工试用期管理办法",
+        "试用期管理办法"
+      ],
+      "citationsAsFormOrTermName": [],
+      "contextChars": 5189,
+      "judge_correctness": 3,
+      "judge_faithfulness": 3,
+      "judge_relevance": 3,
+      "judge_unsupportedClaims": [],
+      "judge_note": "答案完整覆盖期望事实中的5个数值（10天、8天、10个工作日、1:2、1:1.5），且全部严格对应检索文档：上海年假P5=10天、北京P5=8天、上海病假=10个工作日、上海周末调休=1:2、北京周末调休=1:1.5；所有陈述均有直接文档依据，无编造；问题要求对比三方面差异，答案结构清晰、正面回应。"
+    },
+    {
+      "id": "MA02",
+      "category": "multi_aspect",
+      "factRecall": 1.0,
+      "numbersTotal": 11,
+      "numbersGrounded": 11,
+      "groundingRate": 1.0,
+      "ungroundedNumbers": [],
+      "citationsTotal": 3,
+      "validCitations": [
+        "员工奖惩条例",
+        "考勤管理制度",
+        "考勤管理办法"
+      ],
+      "invalidCitations": [],
+      "citationsInCorpusNotInRecorded": [],
+      "citationsAsFormOrTermName": [],
+      "contextChars": 8658,
+      "judge_correctness": 3,
+      "judge_faithfulness": 3,
+      "judge_relevance": 3,
+      "judge_unsupportedClaims": [],
+      "judge_note": "答案完整覆盖期望事实（20元、50元、5次、3次），所有对比点均严格源自检索文档，且直接精准回应问题中‘上海子公司和总部的迟到扣款和补卡规定有什么不同’的核心诉求。"
+    },
+    {
+      "id": "MA03",
+      "category": "multi_aspect",
+      "factRecall": 1.0,
+      "numbersTotal": 7,
+      "numbersGrounded": 7,
+      "groundingRate": 1.0,
+      "ungroundedNumbers": [],
+      "citationsTotal": 5,
+      "validCitations": [
+        "2024年差旅费报销制度",
+        "差旅费报销制度",
+        "差旅预订管理规定",
+        "驻场人员差旅规定"
+      ],
+      "invalidCitations": [],
+      "citationsInCorpusNotInRecorded": [
+        "出差住宿酒店协议价目录"
+      ],
+      "citationsAsFormOrTermName": [],
+      "contextChars": 5261,
+      "judge_correctness": 3,
+      "judge_faithfulness": 3,
+      "judge_relevance": 3,
+      "judge_unsupportedClaims": [],
+      "judge_note": "答案准确提取总部（一线600元）与驻场（统一300元）的住宿标准，完全匹配期望事实；所有论断均有对应文档支撑，无编造；直接、结构化回答了二者差异。"
+    },
+    {
+      "id": "AG01",
+      "category": "aggregation",
+      "factRecall": 1.0,
+      "numbersTotal": 2,
+      "numbersGrounded": 2,
+      "groundingRate": 1.0,
+      "ungroundedNumbers": [],
+      "citationsTotal": 4,
+      "validCitations": [
+        "专项假期管理规定",
+        "假期申请与审批流程指引",
+        "实习假期规定",
+        "驻场人员假期规定"
+      ],
+      "invalidCitations": [],
+      "citationsInCorpusNotInRecorded": [],
+      "citationsAsFormOrTermName": [],
+      "contextChars": 6740,
+      "judge_correctness": 1,
+      "judge_faithfulness": 2,
+      "judge_relevance": 3,
+      "judge_unsupportedClaims": [
+        "公司现行制度框架下共 8 类法定及公司规定的假期",
+        "事假、调休假属于公司‘实行的假期类型’（与问题语境‘公司一共有哪些类型的假期’隐含的正式/带薪/制度化假期不符）"
+      ],
+      "judge_note": "答案错误地将‘事假’‘调休假’纳入公司正式假期类型，但【期望事实】明确不含这两类；检索内容虽列出‘年假、病假、事假、调休假、婚假、产假、陪产假、丧假’，但‘等’字表明该列表非穷尽，且《实习假期规定》明确‘实习期间不享受带薪年假’，说明‘年假’适用范围有限，而‘事假’‘调休假’在多处被描述为非带薪或流程性安排，与【期望事实】中6类法定/福利性假期性质不一致；答案声称‘共8类’属无据概括。"
+    },
+    {
+      "id": "AG02",
+      "category": "aggregation",
+      "factRecall": 1.0,
+      "numbersTotal": 12,
+      "numbersGrounded": 12,
+      "groundingRate": 1.0,
+      "ungroundedNumbers": [],
+      "citationsTotal": 10,
+      "validCitations": [
+        "2024年差旅费报销制度",
+        "IT 服务工单处理时限",
+        "假期申请与审批流程指引",
+        "发票与报销凭证管理规范",
+        "差旅费报销制度",
+        "紧急费用审批绿色通道管理办法"
+      ],
+      "invalidCitations": [],
+      "citationsInCorpusNotInRecorded": [
+        "客户投诉处理管理办法",
+        "离职交接管理办法",
+        "驻场人员差旅规定"
+      ],
+      "citationsAsFormOrTermName": [
+        "紧急费用说明单"
+      ],
+      "contextChars": 5783,
+      "judge_correctness": 1,
+      "judge_faithfulness": 0,
+      "judge_relevance": 2,
+      "judge_unsupportedClaims": [
+        "普通差旅费报销时限为15个工作日",
+        "紧急费用报销需在3个工作日内补录说明单（该3日是补录时限，非审批时限）",
+        "知识库中未规定审批时限"
+      ],
+      "judge_note": "期望事实明确要求三个数字：15、3、5个工作日，但答案未识别出《紧急费用审批绿色通道管理办法》中‘补录后5个工作日内，由部门总监与财务经理完成双审批’这一关键5个工作日审批时限；将‘3个工作日’错误归类为报销时限（实为补录时限），且未提取出该制度中明确的5个工作日审批时限；同时虚构‘知识库中未规定审批时限’的结论，与文档事实矛盾。"
+    },
+    {
+      "id": "E10",
+      "category": "single_hop",
+      "factRecall": 1.0,
+      "numbersTotal": 3,
+      "numbersGrounded": 3,
+      "groundingRate": 1.0,
+      "ungroundedNumbers": [],
+      "citationsTotal": 5,
+      "validCitations": [
+        "2023年加班与调休管理规定",
+        "加班与调休管理制度",
+        "加班调休管理办法",
+        "实习加班规定",
+        "驻场加班规定"
+      ],
+      "invalidCitations": [],
+      "citationsInCorpusNotInRecorded": [],
+      "citationsAsFormOrTermName": [],
+      "contextChars": 4791,
+      "judge_correctness": 3,
+      "judge_faithfulness": 3,
+      "judge_relevance": 3,
+      "judge_unsupportedClaims": [],
+      "judge_note": "答案准确匹配期望事实'1:1.5'，且严格依据检索文档中北京总部《加班与调休管理制度》（2026年1月修订）的明确记载；对其他主体的差异化规则亦全部有据可查，无编造；最终聚焦问题核心，给出默认适用情形下的正确结论。"
+    },
+    {
+      "id": "AZ01",
+      "category": "agent_zone",
+      "factRecall": 1.0,
+      "numbersTotal": 6,
+      "numbersGrounded": 6,
+      "groundingRate": 1.0,
+      "ungroundedNumbers": [],
+      "citationsTotal": 4,
+      "validCitations": [
+        "信息安全管理制度",
+        "加班与调休管理制度",
+        "职级与假期对照表",
+        "远程办公管理办法"
+      ],
+      "invalidCitations": [],
+      "citationsInCorpusNotInRecorded": [],
+      "citationsAsFormOrTermName": [],
+      "contextChars": 4716,
+      "judge_correctness": 3,
+      "judge_faithfulness": 3,
+      "judge_relevance": 3,
+      "judge_unsupportedClaims": [],
+      "judge_note": "答案完全匹配期望事实（8天, 1:1.5, 90天, 2天），每条均精准引用对应文档的明确原文，且全部限定于北京总部适用范围，无任何编造或跨制度混淆。"
+    },
+    {
+      "id": "AZ02",
+      "category": "agent_zone",
+      "factRecall": 1.0,
+      "numbersTotal": 7,
+      "numbersGrounded": 7,
+      "groundingRate": 1.0,
+      "ungroundedNumbers": [],
+      "citationsTotal": 6,
+      "validCitations": [
+        "2024年试用期管理规定",
+        "员工试用期管理办法",
+        "紧急费用审批绿色通道管理办法",
+        "职级与假期对照表",
+        "试用期管理办法"
+      ],
+      "invalidCitations": [],
+      "citationsInCorpusNotInRecorded": [
+        "年假管理制度"
+      ],
+      "citationsAsFormOrTermName": [],
+      "contextChars": 5558,
+      "judge_correctness": 3,
+      "judge_faithfulness": 3,
+      "judge_relevance": 3,
+      "judge_unsupportedClaims": [],
+      "judge_note": "答案三项均准确匹配期望事实（5000、5个工作日、5天），每条结论均可在检索文档中直接找到原文依据，且严格聚焦问题，无冗余或偏移。"
+    },
+    {
+      "id": "AZ06",
+      "category": "agent_zone2",
+      "factRecall": 1.0,
+      "numbersTotal": 8,
+      "numbersGrounded": 8,
+      "groundingRate": 1.0,
+      "ungroundedNumbers": [],
+      "citationsTotal": 6,
+      "validCitations": [
+        "专项假期管理规定",
+        "加班与调休管理制度",
+        "差旅费报销制度",
+        "考勤管理制度",
+        "职级与假期对照表",
+        "远程办公管理办法"
+      ],
+      "invalidCitations": [],
+      "citationsInCorpusNotInRecorded": [],
+      "citationsAsFormOrTermName": [],
+      "contextChars": 4446,
+      "judge_correctness": 3,
+      "judge_faithfulness": 3,
+      "judge_relevance": 3,
+      "judge_unsupportedClaims": [],
+      "judge_note": "答案完全匹配期望事实（5天,3天,1:3,3次,2天,450元），每条均精准引用对应制度原文，无推断、无编造，且全部聚焦问题所问六项事实。"
+    },
+    {
+      "id": "AZ07",
+      "category": "agent_zone2",
+      "factRecall": 1.0,
+      "numbersTotal": 13,
+      "numbersGrounded": 13,
+      "groundingRate": 1.0,
+      "ungroundedNumbers": [],
+      "citationsTotal": 7,
+      "validCitations": [
+        "加班与调休管理制度",
+        "员工试用期管理办法",
+        "差旅费报销制度",
+        "驻场加班规定"
+      ],
+      "invalidCitations": [],
+      "citationsInCorpusNotInRecorded": [
+        "专项假期管理规定（婚假、产假、陪产假、丧假）",
+        "年假管理规定",
+        "驻场人员差旅规定"
+      ],
+      "citationsAsFormOrTermName": [],
+      "contextChars": 5768,
+      "judge_correctness": 2,
+      "judge_faithfulness": 1,
+      "judge_relevance": 3,
+      "judge_unsupportedClaims": [
+        "婚假有3天",
+        "上海子公司P5年假为10天（未体现司龄加成是否适用）"
+      ],
+      "judge_note": "婚假天数在检索内容中完全未出现，属无据编造；上海子公司P5年假虽文档明确写‘P5职级员工每年10天’，但待评答案额外添加‘+司龄加成（如有）’及‘不超过15天’，而《年假管理规定》（上海）仅提‘司龄满5年增加1天’，未提上限15天（该上限仅见于北京《职级与假期对照表》），故该补充不忠实；其余项均正确且有据。"
+    },
+    {
+      "id": "AZ08",
+      "category": "agent_zone2",
+      "factRecall": 1.0,
+      "numbersTotal": 14,
+      "numbersGrounded": 12,
+      "groundingRate": 0.8571428571428571,
+      "ungroundedNumbers": [
+        "11",
+        "13"
+      ],
+      "citationsTotal": 7,
+      "validCitations": [
+        "专项假期管理规定",
+        "员工试用期管理办法",
+        "年假管理制度",
+        "年假管理规定",
+        "病假管理办法",
+        "考勤管理制度",
+        "职级与假期对照表"
+      ],
+      "invalidCitations": [],
+      "citationsInCorpusNotInRecorded": [],
+      "citationsAsFormOrTermName": [],
+      "contextChars": 4702,
+      "judge_correctness": 1,
+      "judge_faithfulness": 1,
+      "judge_relevance": 2,
+      "judge_unsupportedClaims": [
+        "上海子公司P5员工司龄满5年年假为11天（文档仅写P5=10天，司龄满5年‘增加1天’，但未说明该加成是否适用于上海制度；而《年假管理规定》中‘司龄满5年增加1天’确有明文，此项本应正确，但问题要求的是‘上海子公司员工的年假天数’——未指定职级，期望事实却给出单一数字‘10天’，说明隐含默认典型/标准职级；文档中唯一明确对应‘10天’的即P5基准，且无加成前提，故答案擅自叠加司龄加成导致错误）",
+        "北京总部P5司龄满5年年假为10天（文档《职级与假期对照表》明确：P5基准8天，司龄满5年加2天→10天，此项正确；但答案在对比段落称‘上海11 > 北京10’，进而得出‘上海更多’，而期望事实明确要求对比结论是‘8天’（北京）vs‘10天’（上海），即上海比北京‘多’，但答案未指出北京P5基准为8天、上海P5基准为10天这一最直接可比基准值，反而用加成后数值比较，偏离问题‘相比’所指的制度基准设定）",
+        "北京总部正式员工带薪病假上限‘知识库中未找到’（文档中《考勤管理制度》第四条明确‘病假需提供医院开具的病假证明’，但未规定天数；然而《员工试用期管理办法》规定试用期病假上限5天，且注明‘不适用于转正员工’；更重要的是，《病假管理办法》标题及全文均限定‘适用范围：上海子公司’，其存在本身即反向印证北京总部不适用该办法，而北京总部无任何病假天数条款——此推断合理；但问题问‘上海子公司…与北京总部相比’，期望事实给出‘10个工作日’作为上海病假上限，未提北京，说明北京该项无规定或不适用；答案称‘未找到’基本符合事实，但‘未找到’不等于‘不存在’，而RAG要求答案必须严格基于检索内容，该表述属安全推断，不构成严重编造；真正 unsupported 的是答案将‘上海10天’与‘北京无数据’并列对比，却未按期望事实隐含逻辑指出：北京总部无统一带薪病假上限规定，因此无法比较，而期望事实只给了上海的10天，说明问题实际只需求上海值——答案过度延伸）"
+      ],
+      "judge_note": "答案错误地将上海P5年假基准（10天）与司龄加成（+1）合并为11天作答，而期望事实明确为'10天'；又虚构北京总部年假对比基准（用加成后10天 vs 上海11天），但问题要求的是制度规定的标准值对比，文档显示上海P5基准10天 > 北京P5基准8天，即‘多’，答案未简洁给出该核心事实；病假部分虽如实指出北京无规定，但问题只问‘上海子公司…分别是多少？与北京相比年假多还是少’，答案冗长分析病假不可比，偏离直接回答要求。"
+    }
+  ]
+}
