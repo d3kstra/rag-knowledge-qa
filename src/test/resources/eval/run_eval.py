@@ -155,9 +155,15 @@ def ask_with_retry(question: str, retries: int = 2, **kw):
     # unreachable
 
 
-def search_files(query: str, top_k: int = 10):
+def search_files(query: str, top_k: int = 50, top_ratio: float = 20.0):
+    """记录该题实际进上下文的文档集合。
+
+    注意：这里的 topK/topRatio 必须与应用运行时的 rag.search.top-k / top-ratio 一致，
+    否则记录的 retrievedFiles 只是上下文的一个子集（旧版固定 top_k=10，
+    导致"引用 top-10 之外的文档"被误判为无效引用）。
+    """
     url = BASE + "/api/knowledge/search?" + urllib.parse.urlencode(
-        {"query": query, "topK": top_k})
+        {"query": query, "topK": top_k, "topRatio": top_ratio})
     try:
         with urllib.request.urlopen(url, timeout=30) as resp:
             data = json.loads(resp.read().decode("utf-8", "ignore"))
@@ -196,6 +202,10 @@ def main():
     ap.add_argument("--label", default="baseline")
     ap.add_argument("--endpoint", default="baseline", choices=["baseline", "agent", "singleshot"])
     ap.add_argument("--mode", default="agent")
+    ap.add_argument("--search-top-k", type=int, default=50,
+                    help="记录上下文时用的检索 top-k（须与应用 rag.search.top-k 一致）")
+    ap.add_argument("--search-top-ratio", type=float, default=20.0,
+                    help="记录上下文时用的取数 K（须与应用 rag.search.top-ratio 一致）")
     ap.add_argument("--rewrite", default="true", choices=["true", "false"],
                     help="D6 多轮 query 改写开关（可证伪实验：false 应使多轮题失败）")
     ap.add_argument("--no-flush", action="store_true")
@@ -250,7 +260,7 @@ def main():
                 passed = None  # 关键词层假阳性，交 judge
             else:
                 passed = bool(facts) and len(fact_hits) == len(facts)
-            names, err2 = search_files(turns[-1])
+            names, err2 = search_files(turns[-1], args.search_top_k, args.search_top_ratio)
             names_n = [norm(n) for n in names]
             doc_hit = bool(q.get("expectDocKeyword")) and any(
                 norm(q["expectDocKeyword"]) in n for n in names_n)
