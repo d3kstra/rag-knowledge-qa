@@ -79,6 +79,10 @@ tongyi:
 
 # RAG相关配置
 rag:
+  # 文档元数据（类型/适用范围/现行状态）注入上下文标签；文件不存在则自动降级为不标注。
+  # 由 src/test/resources/eval/extract_metadata.py 生成。
+  context:
+    metadata-path: src/test/resources/eval/doc-metadata.json
   cache:
     exact:
       enabled: true

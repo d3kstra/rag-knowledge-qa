@@ -11,6 +11,7 @@ import io.github.d3kstra.rag_knowledge_qa.dto.internal.KnowledgeSearchResult;
 import io.github.d3kstra.rag_knowledge_qa.dto.request.SearchRequest;
 import io.github.d3kstra.rag_knowledge_qa.dto.response.StreamChatResponse;
 import io.github.d3kstra.rag_knowledge_qa.knowledge.KnowledgeBaseService;
+import io.github.d3kstra.rag_knowledge_qa.service.DocMetadataService;
 import io.github.d3kstra.rag_knowledge_qa.service.RAGService;
 import io.github.d3kstra.rag_knowledge_qa.service.base.BaseTongYiService;
 import lombok.extern.slf4j.Slf4j;
@@ -32,6 +33,7 @@ public class TongYiRAGServiceImpl extends BaseTongYiService implements RAGServic
     private final SemanticDocumentCacheService semanticDocumentCacheService;
     private final SemanticAnswerCacheService semanticAnswerCacheService;
     private final CacheService cacheService;
+    private final DocMetadataService docMetadataService;
 
     /** 检索漏斗：topK=召回池 N；topRatio 0<x<1 按比例截断，>=1 视为进上下文条数 K（默认 N=20/K=10，深池实验结论） */
     @Value("${rag.search.top-k:20}")
@@ -82,12 +84,14 @@ public class TongYiRAGServiceImpl extends BaseTongYiService implements RAGServic
                                 KnowledgeBaseService knowledgeBaseService,
                                 SemanticDocumentCacheService semanticDocumentCacheService,
                                 SemanticAnswerCacheService semanticAnswerCacheService,
-                                CacheService cacheService) {
+                                CacheService cacheService,
+                                DocMetadataService docMetadataService) {
         super(tongYiBaseConfig, promptConfig);
         this.knowledgeBaseService = knowledgeBaseService;
         this.semanticDocumentCacheService = semanticDocumentCacheService;
         this.semanticAnswerCacheService = semanticAnswerCacheService;
         this.cacheService = cacheService;
+        this.docMetadataService = docMetadataService;
     }
 
     @Override
@@ -148,8 +152,9 @@ public class TongYiRAGServiceImpl extends BaseTongYiService implements RAGServic
                     .toList());
 
             if (!contextIncludeSource) {
+                // 元数据标注：让模型看到【类型·适用范围·现行状态】（无元数据时原样返回）
                 return searchResults.stream()
-                        .map(KnowledgeSearchResult::getContent)
+                        .map(r -> docMetadataService.label(r.getFileName(), r.getContent()))
                         .toList();
             }
             // 带来源标注（与 KnowledgeSearchTool 输出同构）：便于模型区分多文档/多主体证据
@@ -157,8 +162,9 @@ public class TongYiRAGServiceImpl extends BaseTongYiService implements RAGServic
             int seq = 1;
             for (KnowledgeSearchResult r : searchResults) {
                 // 同 KnowledgeSearchTool：不暴露语义不可比的内部分数
-                labeled.add(String.format("【%d】《%s》 chunk#%s%n%s",
-                        seq++, r.getFileName(), r.getChunkIndex(), r.getContent()));
+                labeled.add(String.format("【%d】%s《%s》 chunk#%s%n%s",
+                        seq++, docMetadataService.tag(r.getFileName()),
+                        r.getFileName(), r.getChunkIndex(), r.getContent()));
             }
             return labeled;
         });

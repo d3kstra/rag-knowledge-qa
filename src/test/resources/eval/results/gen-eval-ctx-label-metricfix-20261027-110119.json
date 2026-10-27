@@ -1,0 +1,445 @@
+{
+  "summary": {
+    "source": "ctx-label-20261027-105426.json",
+    "generatedAt": "20261027-110119",
+    "questions": 20,
+    "judgeModel": null,
+    "avgFactRecall": 1.0,
+    "avgGroundingRate": 0.992,
+    "questionsWithUngroundedNumbers": 1,
+    "questionsWithInvalidCitations": 1,
+    "questionsWithCitationsOutsideRecorded": 8,
+    "questionsWithFormNameCitations": 2,
+    "avgCorrectness": null,
+    "avgFaithfulness": null,
+    "avgRelevance": null,
+    "questionsWithUnsupportedClaims": 0
+  },
+  "rows": [
+    {
+      "id": "E01",
+      "category": "single_hop",
+      "factRecall": 1.0,
+      "numbersTotal": 3,
+      "numbersGrounded": 3,
+      "groundingRate": 1.0,
+      "ungroundedNumbers": [],
+      "citationsTotal": 2,
+      "validCitations": [
+        "02-职级与假期对照表",
+        "C01-上海子公司年假管理规定"
+      ],
+      "invalidCitations": [],
+      "citationsInCorpusNotInRecorded": [],
+      "citationsAsFormOrTermName": [],
+      "contextChars": 5056
+    },
+    {
+      "id": "E02",
+      "category": "single_hop",
+      "factRecall": 1.0,
+      "numbersTotal": 3,
+      "numbersGrounded": 3,
+      "groundingRate": 1.0,
+      "ungroundedNumbers": [],
+      "citationsTotal": 5,
+      "validCitations": [
+        "01-年假管理制度",
+        "B02-2023年年假管理制度",
+        "C01-上海子公司年假管理规定",
+        "C12-驻场人员假期规定"
+      ],
+      "invalidCitations": [],
+      "citationsInCorpusNotInRecorded": [
+        "05-考勤管理制度"
+      ],
+      "citationsAsFormOrTermName": [],
+      "contextChars": 4869
+    },
+    {
+      "id": "E03",
+      "category": "single_hop",
+      "factRecall": 1.0,
+      "numbersTotal": 3,
+      "numbersGrounded": 3,
+      "groundingRate": 1.0,
+      "ungroundedNumbers": [],
+      "citationsTotal": 2,
+      "validCitations": [
+        "07-加班与调休管理制度",
+        "14-加班餐费与通勤补贴细则"
+      ],
+      "invalidCitations": [],
+      "citationsInCorpusNotInRecorded": [],
+      "citationsAsFormOrTermName": [],
+      "contextChars": 4877
+    },
+    {
+      "id": "E04",
+      "category": "single_hop",
+      "factRecall": 1.0,
+      "numbersTotal": 2,
+      "numbersGrounded": 2,
+      "groundingRate": 1.0,
+      "ungroundedNumbers": [],
+      "citationsTotal": 1,
+      "validCitations": [
+        "08-远程办公管理办法"
+      ],
+      "invalidCitations": [],
+      "citationsInCorpusNotInRecorded": [],
+      "citationsAsFormOrTermName": [],
+      "contextChars": 4013
+    },
+    {
+      "id": "E05",
+      "category": "single_hop",
+      "factRecall": 1.0,
+      "numbersTotal": 4,
+      "numbersGrounded": 4,
+      "groundingRate": 1.0,
+      "ungroundedNumbers": [],
+      "citationsTotal": 3,
+      "validCitations": [
+        "09-信息安全管理制度",
+        "F02-信息安全操作细则",
+        "信息安全管理制度"
+      ],
+      "invalidCitations": [],
+      "citationsInCorpusNotInRecorded": [],
+      "citationsAsFormOrTermName": [],
+      "contextChars": 26940
+    },
+    {
+      "id": "E06",
+      "category": "single_hop",
+      "factRecall": 1.0,
+      "numbersTotal": 2,
+      "numbersGrounded": 2,
+      "groundingRate": 1.0,
+      "ungroundedNumbers": [],
+      "citationsTotal": 1,
+      "validCitations": [
+        "10-专项假期管理规定"
+      ],
+      "invalidCitations": [],
+      "citationsInCorpusNotInRecorded": [],
+      "citationsAsFormOrTermName": [],
+      "contextChars": 5982
+    },
+    {
+      "id": "E07",
+      "category": "single_hop",
+      "factRecall": 1.0,
+      "numbersTotal": 1,
+      "numbersGrounded": 1,
+      "groundingRate": 1.0,
+      "ungroundedNumbers": [],
+      "citationsTotal": 2,
+      "validCitations": [
+        "04-紧急费用审批绿色通道管理办法"
+      ],
+      "invalidCitations": [],
+      "citationsInCorpusNotInRecorded": [],
+      "citationsAsFormOrTermName": [
+        "紧急费用说明单"
+      ],
+      "contextChars": 11812
+    },
+    {
+      "id": "E08",
+      "category": "single_hop",
+      "factRecall": 1.0,
+      "numbersTotal": 2,
+      "numbersGrounded": 2,
+      "groundingRate": 1.0,
+      "ungroundedNumbers": [],
+      "citationsTotal": 1,
+      "validCitations": [
+        "08-远程办公管理办法"
+      ],
+      "invalidCitations": [],
+      "citationsInCorpusNotInRecorded": [],
+      "citationsAsFormOrTermName": [],
+      "contextChars": 6632
+    },
+    {
+      "id": "E09",
+      "category": "single_hop",
+      "factRecall": 1.0,
+      "numbersTotal": 2,
+      "numbersGrounded": 2,
+      "groundingRate": 1.0,
+      "ungroundedNumbers": [],
+      "citationsTotal": 3,
+      "validCitations": [
+        "06-员工试用期管理办法",
+        "B05-2024年试用期管理规定",
+        "C05-上海子公司试用期管理办法"
+      ],
+      "invalidCitations": [],
+      "citationsInCorpusNotInRecorded": [],
+      "citationsAsFormOrTermName": [],
+      "contextChars": 4960
+    },
+    {
+      "id": "MA01",
+      "category": "multi_aspect",
+      "factRecall": 1.0,
+      "numbersTotal": 14,
+      "numbersGrounded": 14,
+      "groundingRate": 1.0,
+      "ungroundedNumbers": [],
+      "citationsTotal": 14,
+      "validCitations": [
+        "**职级与假期对照表**",
+        "01-年假管理制度",
+        "02-职级与假期对照表",
+        "05-考勤管理制度",
+        "07-加班与调休管理制度",
+        "B02-2023年年假管理制度",
+        "B04-2023年加班与调休管理规定",
+        "C01-上海子公司年假管理规定",
+        "C03-上海子公司病假管理办法",
+        "C04-上海子公司加班调休管理办法",
+        "C14-驻场加班规定"
+      ],
+      "invalidCitations": [
+        "C05-试用期管理办法"
+      ],
+      "citationsInCorpusNotInRecorded": [
+        "06-员工试用期管理办法",
+        "06-试用期管理办法"
+      ],
+      "citationsAsFormOrTermName": [],
+      "contextChars": 5638
+    },
+    {
+      "id": "MA02",
+      "category": "multi_aspect",
+      "factRecall": 1.0,
+      "numbersTotal": 11,
+      "numbersGrounded": 11,
+      "groundingRate": 1.0,
+      "ungroundedNumbers": [],
+      "citationsTotal": 3,
+      "validCitations": [
+        "05-考勤管理制度",
+        "12-员工奖惩条例",
+        "C02-上海子公司考勤管理办法"
+      ],
+      "invalidCitations": [],
+      "citationsInCorpusNotInRecorded": [],
+      "citationsAsFormOrTermName": [],
+      "contextChars": 8658
+    },
+    {
+      "id": "MA03",
+      "category": "multi_aspect",
+      "factRecall": 1.0,
+      "numbersTotal": 8,
+      "numbersGrounded": 8,
+      "groundingRate": 1.0,
+      "ungroundedNumbers": [],
+      "citationsTotal": 4,
+      "validCitations": [
+        "03-差旅费报销制度",
+        "B03-2024年差旅费报销制度",
+        "C13-驻场人员差旅规定"
+      ],
+      "invalidCitations": [],
+      "citationsInCorpusNotInRecorded": [
+        "E47-出差住宿酒店协议价目录"
+      ],
+      "citationsAsFormOrTermName": [],
+      "contextChars": 5261
+    },
+    {
+      "id": "AG01",
+      "category": "aggregation",
+      "factRecall": 1.0,
+      "numbersTotal": 1,
+      "numbersGrounded": 1,
+      "groundingRate": 1.0,
+      "ungroundedNumbers": [],
+      "citationsTotal": 5,
+      "validCitations": [
+        "10-专项假期管理规定",
+        "11-假期申请与审批流程指引",
+        "C07-实习假期规定",
+        "C12-驻场人员假期规定"
+      ],
+      "invalidCitations": [],
+      "citationsInCorpusNotInRecorded": [
+        "07-加班与调休管理制度"
+      ],
+      "citationsAsFormOrTermName": [],
+      "contextChars": 7191
+    },
+    {
+      "id": "AG02",
+      "category": "aggregation",
+      "factRecall": 1.0,
+      "numbersTotal": 11,
+      "numbersGrounded": 11,
+      "groundingRate": 1.0,
+      "ungroundedNumbers": [],
+      "citationsTotal": 9,
+      "validCitations": [
+        "03-差旅费报销制度",
+        "04-紧急费用审批绿色通道管理办法",
+        "11-假期申请与审批流程指引",
+        "E14-发票与报销凭证管理规范",
+        "Z-IT服务工单处理时限"
+      ],
+      "invalidCitations": [],
+      "citationsInCorpusNotInRecorded": [
+        "C13-驻场人员差旅规定",
+        "E08-离职交接管理办法",
+        "E24-客户投诉处理管理办法"
+      ],
+      "citationsAsFormOrTermName": [
+        "紧急费用说明单"
+      ],
+      "contextChars": 5783
+    },
+    {
+      "id": "E10",
+      "category": "single_hop",
+      "factRecall": 1.0,
+      "numbersTotal": 3,
+      "numbersGrounded": 3,
+      "groundingRate": 1.0,
+      "ungroundedNumbers": [],
+      "citationsTotal": 5,
+      "validCitations": [
+        "07-加班与调休管理制度",
+        "B04-2023年加班与调休管理规定",
+        "C04-上海子公司加班调休管理办法",
+        "C08-实习加班规定",
+        "C14-驻场加班规定"
+      ],
+      "invalidCitations": [],
+      "citationsInCorpusNotInRecorded": [],
+      "citationsAsFormOrTermName": [],
+      "contextChars": 4791
+    },
+    {
+      "id": "AZ01",
+      "category": "agent_zone",
+      "factRecall": 1.0,
+      "numbersTotal": 9,
+      "numbersGrounded": 9,
+      "groundingRate": 1.0,
+      "ungroundedNumbers": [],
+      "citationsTotal": 5,
+      "validCitations": [
+        "02-职级与假期对照表",
+        "07-加班与调休管理制度",
+        "08-远程办公管理办法",
+        "09-信息安全管理制度"
+      ],
+      "invalidCitations": [],
+      "citationsInCorpusNotInRecorded": [
+        "F02-信息安全操作细则"
+      ],
+      "citationsAsFormOrTermName": [],
+      "contextChars": 8326
+    },
+    {
+      "id": "AZ02",
+      "category": "agent_zone",
+      "factRecall": 1.0,
+      "numbersTotal": 7,
+      "numbersGrounded": 7,
+      "groundingRate": 1.0,
+      "ungroundedNumbers": [],
+      "citationsTotal": 6,
+      "validCitations": [
+        "02-职级与假期对照表",
+        "04-紧急费用审批绿色通道管理办法",
+        "06-员工试用期管理办法",
+        "B05-2024年试用期管理规定",
+        "职级与假期对照表"
+      ],
+      "invalidCitations": [],
+      "citationsInCorpusNotInRecorded": [
+        "01-年假管理制度"
+      ],
+      "citationsAsFormOrTermName": [],
+      "contextChars": 5558
+    },
+    {
+      "id": "AZ06",
+      "category": "agent_zone2",
+      "factRecall": 1.0,
+      "numbersTotal": 8,
+      "numbersGrounded": 8,
+      "groundingRate": 1.0,
+      "ungroundedNumbers": [],
+      "citationsTotal": 6,
+      "validCitations": [
+        "02-职级与假期对照表",
+        "03-差旅费报销制度",
+        "05-考勤管理制度",
+        "07-加班与调休管理制度",
+        "08-远程办公管理办法",
+        "10-专项假期管理规定"
+      ],
+      "invalidCitations": [],
+      "citationsInCorpusNotInRecorded": [],
+      "citationsAsFormOrTermName": [],
+      "contextChars": 4446
+    },
+    {
+      "id": "AZ07",
+      "category": "agent_zone2",
+      "factRecall": 1.0,
+      "numbersTotal": 10,
+      "numbersGrounded": 10,
+      "groundingRate": 1.0,
+      "ungroundedNumbers": [],
+      "citationsTotal": 6,
+      "validCitations": [
+        "03-差旅费报销制度",
+        "06-员工试用期管理办法",
+        "07-加班与调休管理制度",
+        "C14-驻场加班规定"
+      ],
+      "invalidCitations": [],
+      "citationsInCorpusNotInRecorded": [
+        "10-专项假期管理规定",
+        "C01-上海子公司年假管理规定"
+      ],
+      "citationsAsFormOrTermName": [],
+      "contextChars": 5725
+    },
+    {
+      "id": "AZ08",
+      "category": "agent_zone2",
+      "factRecall": 1.0,
+      "numbersTotal": 13,
+      "numbersGrounded": 11,
+      "groundingRate": 0.8461538461538461,
+      "ungroundedNumbers": [
+        "11",
+        "13"
+      ],
+      "citationsTotal": 8,
+      "validCitations": [
+        "01-年假管理制度",
+        "02-职级与假期对照表",
+        "05-考勤管理制度",
+        "06-试用期管理办法",
+        "B02-2023年年假管理制度",
+        "C01-上海子公司年假管理规定",
+        "C03",
+        "C03-上海子公司病假管理办法"
+      ],
+      "invalidCitations": [],
+      "citationsInCorpusNotInRecorded": [],
+      "citationsAsFormOrTermName": [],
+      "contextChars": 4702
+    }
+  ]
+}

@@ -1,0 +1,3540 @@
+{
+  "01-年假管理制度": {
+    "doc_type": "制度",
+    "scope": [
+      "北京总部"
+    ],
+    "status": "current",
+    "year": 2026
+  },
+  "02-职级与假期对照表": {
+    "doc_type": "其他",
+    "scope": [
+      "北京总部"
+    ],
+    "status": "current",
+    "year": 2026
+  },
+  "03-差旅费报销制度": {
+    "doc_type": "制度",
+    "scope": [
+      "北京总部"
+    ],
+    "status": "current",
+    "year": 2026
+  },
+  "04-紧急费用审批绿色通道管理办法": {
+    "doc_type": "办法",
+    "scope": [
+      "北京总部"
+    ],
+    "status": "current",
+    "year": 2025
+  },
+  "05-考勤管理制度": {
+    "doc_type": "制度",
+    "scope": [
+      "北京总部"
+    ],
+    "status": "current",
+    "year": 2026
+  },
+  "06-员工试用期管理办法": {
+    "doc_type": "办法",
+    "scope": [
+      "北京总部"
+    ],
+    "status": "current",
+    "year": 2026
+  },
+  "07-加班与调休管理制度": {
+    "doc_type": "制度",
+    "scope": [
+      "北京总部"
+    ],
+    "status": "current",
+    "year": 2026
+  },
+  "08-远程办公管理办法": {
+    "doc_type": "办法",
+    "scope": [
+      "北京总部"
+    ],
+    "status": "current",
+    "year": 2026
+  },
+  "09-信息安全管理制度": {
+    "doc_type": "制度",
+    "scope": [
+      "北京总部"
+    ],
+    "status": "current",
+    "year": 2026
+  },
+  "10-专项假期管理规定": {
+    "doc_type": "规定",
+    "scope": [
+      "北京总部"
+    ],
+    "status": "current",
+    "year": 2026
+  },
+  "11-假期申请与审批流程指引": {
+    "doc_type": "指引",
+    "scope": [],
+    "status": "current",
+    "year": 2025
+  },
+  "12-员工奖惩条例": {
+    "doc_type": "其他",
+    "scope": [],
+    "status": "current",
+    "year": 2024
+  },
+  "13-差旅预订管理规定": {
+    "doc_type": "规定",
+    "scope": [],
+    "status": "current",
+    "year": 2025
+  },
+  "14-加班餐费与通勤补贴细则": {
+    "doc_type": "细则",
+    "scope": [],
+    "status": "current",
+    "year": 2025
+  },
+  "15-福利体检与健康关怀安排": {
+    "doc_type": "其他",
+    "scope": [],
+    "status": "current",
+    "year": 2025
+  },
+  "16-试用期目标设定与考核指引": {
+    "doc_type": "指引",
+    "scope": [],
+    "status": "current",
+    "year": 2025
+  },
+  "B01-2024年考勤管理制度": {
+    "doc_type": "制度",
+    "scope": [],
+    "status": "repealed",
+    "year": 2024
+  },
+  "B02-2023年年假管理制度": {
+    "doc_type": "制度",
+    "scope": [],
+    "status": "repealed",
+    "year": 2023
+  },
+  "B03-2024年差旅费报销制度": {
+    "doc_type": "制度",
+    "scope": [],
+    "status": "repealed",
+    "year": 2024
+  },
+  "B04-2023年加班与调休管理规定": {
+    "doc_type": "规定",
+    "scope": [],
+    "status": "repealed",
+    "year": 2023
+  },
+  "B05-2024年试用期管理规定": {
+    "doc_type": "规定",
+    "scope": [],
+    "status": "repealed",
+    "year": 2024
+  },
+  "B06-2023年专项假期规定": {
+    "doc_type": "规定",
+    "scope": [],
+    "status": "repealed",
+    "year": 2023
+  },
+  "C01-上海子公司年假管理规定": {
+    "doc_type": "规定",
+    "scope": [
+      "上海子公司"
+    ],
+    "status": "current",
+    "year": null
+  },
+  "C02-上海子公司考勤管理办法": {
+    "doc_type": "办法",
+    "scope": [
+      "上海子公司"
+    ],
+    "status": "current",
+    "year": null
+  },
+  "C03-上海子公司病假管理办法": {
+    "doc_type": "办法",
+    "scope": [
+      "上海子公司"
+    ],
+    "status": "current",
+    "year": null
+  },
+  "C04-上海子公司加班调休管理办法": {
+    "doc_type": "办法",
+    "scope": [
+      "上海子公司"
+    ],
+    "status": "current",
+    "year": null
+  },
+  "C05-上海子公司试用期管理办法": {
+    "doc_type": "办法",
+    "scope": [
+      "试用期员工",
+      "上海子公司"
+    ],
+    "status": "current",
+    "year": null
+  },
+  "C06-实习考勤规定": {
+    "doc_type": "规定",
+    "scope": [
+      "实习生"
+    ],
+    "status": "current",
+    "year": null
+  },
+  "C07-实习假期规定": {
+    "doc_type": "规定",
+    "scope": [
+      "实习生"
+    ],
+    "status": "current",
+    "year": null
+  },
+  "C08-实习加班规定": {
+    "doc_type": "规定",
+    "scope": [
+      "实习生"
+    ],
+    "status": "current",
+    "year": null
+  },
+  "C09-实习转正评估办法": {
+    "doc_type": "办法",
+    "scope": [
+      "实习生"
+    ],
+    "status": "current",
+    "year": null
+  },
+  "C10-实习病假工资规定": {
+    "doc_type": "规定",
+    "scope": [
+      "实习生"
+    ],
+    "status": "current",
+    "year": null
+  },
+  "C11-驻场人员考勤规定": {
+    "doc_type": "规定",
+    "scope": [
+      "驻场人员"
+    ],
+    "status": "current",
+    "year": null
+  },
+  "C12-驻场人员假期规定": {
+    "doc_type": "规定",
+    "scope": [
+      "驻场人员"
+    ],
+    "status": "current",
+    "year": null
+  },
+  "C13-驻场人员差旅规定": {
+    "doc_type": "规定",
+    "scope": [
+      "驻场人员"
+    ],
+    "status": "current",
+    "year": null
+  },
+  "C14-驻场加班规定": {
+    "doc_type": "规定",
+    "scope": [
+      "驻场人员"
+    ],
+    "status": "current",
+    "year": null
+  },
+  "C15-驻场门禁与工位规定": {
+    "doc_type": "规定",
+    "scope": [
+      "驻场人员"
+    ],
+    "status": "current",
+    "year": null
+  },
+  "D01-食堂就餐管理规定": {
+    "doc_type": "规定",
+    "scope": [],
+    "status": "current",
+    "year": null
+  },
+  "D02-班车乘坐管理规定": {
+    "doc_type": "规定",
+    "scope": [],
+    "status": "current",
+    "year": null
+  },
+  "D03-门禁刷卡管理规定": {
+    "doc_type": "规定",
+    "scope": [],
+    "status": "current",
+    "year": null
+  },
+  "D04-会议室使用管理规定": {
+    "doc_type": "规定",
+    "scope": [],
+    "status": "current",
+    "year": null
+  },
+  "D05-办公着装指引": {
+    "doc_type": "指引",
+    "scope": [],
+    "status": "current",
+    "year": null
+  },
+  "D06-快递收发管理规定": {
+    "doc_type": "规定",
+    "scope": [],
+    "status": "current",
+    "year": null
+  },
+  "D07-停车场管理规定": {
+    "doc_type": "规定",
+    "scope": [],
+    "status": "current",
+    "year": null
+  },
+  "D08-消防安全管理规定": {
+    "doc_type": "规定",
+    "scope": [],
+    "status": "current",
+    "year": null
+  },
+  "D09-办公用品领用管理规定": {
+    "doc_type": "规定",
+    "scope": [],
+    "status": "current",
+    "year": null
+  },
+  "E01-员工培训与学分管理办法": {
+    "doc_type": "办法",
+    "scope": [
+      "北京总部"
+    ],
+    "status": "current",
+    "year": 2025
+  },
+  "E02-内部讲师管理规定": {
+    "doc_type": "规定",
+    "scope": [
+      "北京总部"
+    ],
+    "status": "current",
+    "year": 2025
+  },
+  "E03-招聘面试官工作指引": {
+    "doc_type": "指引",
+    "scope": [
+      "北京总部"
+    ],
+    "status": "current",
+    "year": 2025
+  },
+  "E04-背景调查操作规范": {
+    "doc_type": "其他",
+    "scope": [
+      "北京总部"
+    ],
+    "status": "current",
+    "year": 2025
+  },
+  "E05-薪酬结构与调薪管理办法": {
+    "doc_type": "办法",
+    "scope": [
+      "北京总部"
+    ],
+    "status": "current",
+    "year": 2025
+  },
+  "E06-社会保险与公积金办理指引": {
+    "doc_type": "指引",
+    "scope": [
+      "北京总部"
+    ],
+    "status": "current",
+    "year": 2025
+  },
+  "E07-劳动合同签订与续签管理办法": {
+    "doc_type": "办法",
+    "scope": [
+      "北京总部"
+    ],
+    "status": "current",
+    "year": 2025
+  },
+  "E08-离职交接管理办法": {
+    "doc_type": "办法",
+    "scope": [
+      "北京总部"
+    ],
+    "status": "current",
+    "year": 2025
+  },
+  "E09-竞业限制与保密协议管理细则": {
+    "doc_type": "细则",
+    "scope": [
+      "北京总部"
+    ],
+    "status": "current",
+    "year": 2025
+  },
+  "E10-差旅保险与意外保障须知": {
+    "doc_type": "其他",
+    "scope": [
+      "北京总部"
+    ],
+    "status": "current",
+    "year": 2025
+  },
+  "E11-因公出国（境）管理规定": {
+    "doc_type": "规定",
+    "scope": [
+      "北京总部"
+    ],
+    "status": "current",
+    "year": 2025
+  },
+  "E12-会议费管理办法": {
+    "doc_type": "办法",
+    "scope": [
+      "北京总部"
+    ],
+    "status": "current",
+    "year": 2025
+  },
+  "E13-业务招待费管理规定": {
+    "doc_type": "规定",
+    "scope": [
+      "北京总部"
+    ],
+    "status": "current",
+    "year": 2025
+  },
+  "E14-发票与报销凭证管理规范": {
+    "doc_type": "其他",
+    "scope": [
+      "北京总部"
+    ],
+    "status": "current",
+    "year": 2025
+  },
+  "E15-备用金管理办法": {
+    "doc_type": "办法",
+    "scope": [
+      "北京总部"
+    ],
+    "status": "current",
+    "year": 2025
+  },
+  "E16-预算编制与执行管理办法": {
+    "doc_type": "办法",
+    "scope": [
+      "北京总部"
+    ],
+    "status": "current",
+    "year": 2025
+  },
+  "E17-固定资产管理办法": {
+    "doc_type": "办法",
+    "scope": [
+      "北京总部"
+    ],
+    "status": "current",
+    "year": 2025
+  },
+  "E18-低值易耗品采购规定": {
+    "doc_type": "规定",
+    "scope": [
+      "北京总部"
+    ],
+    "status": "current",
+    "year": 2025
+  },
+  "E19-供应商准入与评价管理办法": {
+    "doc_type": "办法",
+    "scope": [
+      "北京总部"
+    ],
+    "status": "current",
+    "year": 2025
+  },
+  "E20-合同审批与用印管理规定": {
+    "doc_type": "规定",
+    "scope": [
+      "北京总部"
+    ],
+    "status": "current",
+    "year": 2025
+  },
+  "E21-印章保管与使用管理规定": {
+    "doc_type": "规定",
+    "scope": [
+      "北京总部"
+    ],
+    "status": "current",
+    "year": 2025
+  },
+  "E22-档案管理办法": {
+    "doc_type": "办法",
+    "scope": [
+      "北京总部"
+    ],
+    "status": "current",
+    "year": 2025
+  },
+  "E23-对外信息披露管理规定": {
+    "doc_type": "规定",
+    "scope": [
+      "北京总部"
+    ],
+    "status": "current",
+    "year": 2025
+  },
+  "E24-客户投诉处理管理办法": {
+    "doc_type": "办法",
+    "scope": [
+      "北京总部"
+    ],
+    "status": "current",
+    "year": 2025
+  },
+  "E25-知识产权管理办法": {
+    "doc_type": "办法",
+    "scope": [
+      "北京总部"
+    ],
+    "status": "current",
+    "year": 2025
+  },
+  "E26-开源软件使用管理规定": {
+    "doc_type": "规定",
+    "scope": [
+      "北京总部"
+    ],
+    "status": "current",
+    "year": 2025
+  },
+  "E27-数据备份与恢复操作规程": {
+    "doc_type": "其他",
+    "scope": [
+      "北京总部",
+      "IT部"
+    ],
+    "status": "current",
+    "year": 2025
+  },
+  "E28-办公网络使用管理规定": {
+    "doc_type": "规定",
+    "scope": [
+      "北京总部"
+    ],
+    "status": "current",
+    "year": 2025
+  },
+  "E29-软件安装与许可管理规定": {
+    "doc_type": "规定",
+    "scope": [
+      "北京总部"
+    ],
+    "status": "current",
+    "year": 2025
+  },
+  "E30-VPN 与远程接入管理规定": {
+    "doc_type": "规定",
+    "scope": [
+      "北京总部"
+    ],
+    "status": "current",
+    "year": 2025
+  },
+  "E31-账号权限开通与回收管理规定": {
+    "doc_type": "规定",
+    "scope": [
+      "北京总部"
+    ],
+    "status": "current",
+    "year": 2025
+  },
+  "E32-电脑桌面与终端安全规范": {
+    "doc_type": "其他",
+    "scope": [
+      "北京总部"
+    ],
+    "status": "current",
+    "year": 2025
+  },
+  "E33-保密工作管理规定": {
+    "doc_type": "规定",
+    "scope": [
+      "北京总部"
+    ],
+    "status": "current",
+    "year": 2025
+  },
+  "E34-访客接待管理规定": {
+    "doc_type": "规定",
+    "scope": [
+      "北京总部"
+    ],
+    "status": "current",
+    "year": 2025
+  },
+  "E35-工位与绿植管理规定": {
+    "doc_type": "规定",
+    "scope": [
+      "北京总部"
+    ],
+    "status": "current",
+    "year": 2025
+  },
+  "E36-员工年度体检实施细则": {
+    "doc_type": "细则",
+    "scope": [
+      "北京总部"
+    ],
+    "status": "current",
+    "year": 2025
+  },
+  "E37-员工心理关怀（EAP）实施方案": {
+    "doc_type": "其他",
+    "scope": [
+      "北京总部"
+    ],
+    "status": "current",
+    "year": 2025
+  },
+  "E38-员工年度旅游活动管理办法": {
+    "doc_type": "办法",
+    "scope": [
+      "北京总部"
+    ],
+    "status": "current",
+    "year": 2025
+  },
+  "E39-节日礼品与慰问品发放规定": {
+    "doc_type": "规定",
+    "scope": [
+      "北京总部"
+    ],
+    "status": "current",
+    "year": 2025
+  },
+  "E40-员工社团活动经费规定": {
+    "doc_type": "规定",
+    "scope": [
+      "北京总部"
+    ],
+    "status": "current",
+    "year": 2025
+  },
+  "E41-内部推荐奖励管理办法": {
+    "doc_type": "办法",
+    "scope": [
+      "北京总部"
+    ],
+    "status": "current",
+    "year": 2025
+  },
+  "E42-员工内购与福利平台使用指引": {
+    "doc_type": "指引",
+    "scope": [
+      "北京总部"
+    ],
+    "status": "current",
+    "year": 2025
+  },
+  "E43-荣誉表彰管理办法": {
+    "doc_type": "办法",
+    "scope": [
+      "北京总部"
+    ],
+    "status": "current",
+    "year": 2025
+  },
+  "E44-培训服务期协议管理办法": {
+    "doc_type": "办法",
+    "scope": [
+      "北京总部"
+    ],
+    "status": "current",
+    "year": 2025
+  },
+  "E45-工伤认定与申报流程指引": {
+    "doc_type": "指引",
+    "scope": [
+      "北京总部"
+    ],
+    "status": "current",
+    "year": 2025
+  },
+  "E46-商业保险补充医疗报销指引": {
+    "doc_type": "指引",
+    "scope": [
+      "北京总部"
+    ],
+    "status": "current",
+    "year": 2025
+  },
+  "E47-出差住宿酒店协议价目录": {
+    "doc_type": "其他",
+    "scope": [
+      "北京总部"
+    ],
+    "status": "current",
+    "year": 2025
+  },
+  "E48-电子邮件与即时通讯使用规范": {
+    "doc_type": "其他",
+    "scope": [
+      "北京总部"
+    ],
+    "status": "current",
+    "year": 2025
+  },
+  "E49-打印复印与纸质文档管理规定": {
+    "doc_type": "规定",
+    "scope": [
+      "北京总部"
+    ],
+    "status": "current",
+    "year": 2025
+  },
+  "E50-电话与视频会议系统使用规定": {
+    "doc_type": "规定",
+    "scope": [
+      "北京总部"
+    ],
+    "status": "current",
+    "year": 2025
+  },
+  "E51-新员工入职引导手册": {
+    "doc_type": "其他",
+    "scope": [
+      "北京总部"
+    ],
+    "status": "current",
+    "year": 2025
+  },
+  "F01-行政服务事项汇编综合分册": {
+    "doc_type": "其他",
+    "scope": [
+      "北京总部"
+    ],
+    "status": "current",
+    "year": 2026
+  },
+  "F02-信息安全操作细则": {
+    "doc_type": "细则",
+    "scope": [
+      "北京总部"
+    ],
+    "status": "current",
+    "year": 2026
+  },
+  "F03-项目管理办法": {
+    "doc_type": "办法",
+    "scope": [
+      "北京总部"
+    ],
+    "status": "current",
+    "year": 2026
+  },
+  "M00-2026年第一季度办公设备采购通知": {
+    "doc_type": "通知",
+    "scope": [
+      "北京总部",
+      "各子公司"
+    ],
+    "status": "current",
+    "year": 2026
+  },
+  "M001-设备保修条款-MRX33CH-A": {
+    "doc_type": "其他",
+    "scope": [
+      "北京总部",
+      "各子公司"
+    ],
+    "status": "current",
+    "year": 2026
+  },
+  "M002-设备保修条款-MRW13CH-A": {
+    "doc_type": "其他",
+    "scope": [
+      "北京总部",
+      "各子公司"
+    ],
+    "status": "current",
+    "year": 2024
+  },
+  "M003-设备保修条款-21KC-S1M700": {
+    "doc_type": "其他",
+    "scope": [
+      "北京总部",
+      "各子公司"
+    ],
+    "status": "current",
+    "year": 2026
+  },
+  "M004-设备保修条款-MRGF-X26": {
+    "doc_type": "其他",
+    "scope": [
+      "北京总部",
+      "各子公司"
+    ],
+    "status": "current",
+    "year": 2024
+  },
+  "M005-设备保修条款-LAT5450-A2": {
+    "doc_type": "其他",
+    "scope": [
+      "北京总部",
+      "各子公司"
+    ],
+    "status": "current",
+    "year": 2025
+  },
+  "M006-设备保修条款-MRXV3CH-A": {
+    "doc_type": "其他",
+    "scope": [
+      "北京总部",
+      "各子公司"
+    ],
+    "status": "current",
+    "year": 2025
+  },
+  "M007-设备保修条款-21LS-S0A100": {
+    "doc_type": "其他",
+    "scope": [
+      "北京总部",
+      "各子公司"
+    ],
+    "status": "current",
+    "year": 2026
+  },
+  "M008-设备保修条款-HP-Z66-G6": {
+    "doc_type": "其他",
+    "scope": [
+      "北京总部",
+      "各子公司"
+    ],
+    "status": "current",
+    "year": 2024
+  },
+  "M009-设备保修条款-U2723QE-27": {
+    "doc_type": "其他",
+    "scope": [
+      "北京总部",
+      "各子公司"
+    ],
+    "status": "current",
+    "year": 2025
+  },
+  "M010-设备保修条款-27UP850-W": {
+    "doc_type": "其他",
+    "scope": [
+      "北京总部",
+      "各子公司"
+    ],
+    "status": "current",
+    "year": 2025
+  },
+  "M011-设备保修条款-Q27G3XMN-CN": {
+    "doc_type": "其他",
+    "scope": [
+      "北京总部",
+      "各子公司"
+    ],
+    "status": "current",
+    "year": 2025
+  },
+  "M012-设备保修条款-PD2705U-B": {
+    "doc_type": "其他",
+    "scope": [
+      "北京总部",
+      "各子公司"
+    ],
+    "status": "current",
+    "year": 2025
+  },
+  "M013-设备保修条款-T27H-30": {
+    "doc_type": "其他",
+    "scope": [
+      "北京总部",
+      "各子公司"
+    ],
+    "status": "current",
+    "year": 2024
+  },
+  "M014-设备保修条款-PER760-2U": {
+    "doc_type": "其他",
+    "scope": [
+      "北京总部",
+      "各子公司"
+    ],
+    "status": "current",
+    "year": 2024
+  },
+  "M015-设备保修条款-NF5280M7-S": {
+    "doc_type": "其他",
+    "scope": [
+      "北京总部",
+      "各子公司"
+    ],
+    "status": "current",
+    "year": 2026
+  },
+  "M016-设备保修条款-SR650V3-B": {
+    "doc_type": "其他",
+    "scope": [
+      "北京总部",
+      "各子公司"
+    ],
+    "status": "current",
+    "year": 2026
+  },
+  "M017-设备保修条款-2288H-V6": {
+    "doc_type": "其他",
+    "scope": [
+      "北京总部",
+      "各子公司"
+    ],
+    "status": "current",
+    "year": 2025
+  },
+  "M018-设备保修条款-S5735-L48T4X": {
+    "doc_type": "其他",
+    "scope": [
+      "北京总部",
+      "各子公司"
+    ],
+    "status": "current",
+    "year": 2025
+  },
+  "M019-设备保修条款-WX3520X-AP": {
+    "doc_type": "其他",
+    "scope": [
+      "北京总部",
+      "各子公司"
+    ],
+    "status": "current",
+    "year": 2025
+  },
+  "M020-设备保修条款-FG100F-BDL": {
+    "doc_type": "其他",
+    "scope": [
+      "北京总部",
+      "各子公司"
+    ],
+    "status": "current",
+    "year": 2024
+  },
+  "M021-设备保修条款-ISR4331-K9": {
+    "doc_type": "其他",
+    "scope": [
+      "北京总部",
+      "各子公司"
+    ],
+    "status": "current",
+    "year": 2026
+  },
+  "M022-设备保修条款-M479FDW-A": {
+    "doc_type": "其他",
+    "scope": [
+      "北京总部",
+      "各子公司"
+    ],
+    "status": "current",
+    "year": 2026
+  },
+  "M023-设备保修条款-C3830i-A": {
+    "doc_type": "其他",
+    "scope": [
+      "北京总部",
+      "各子公司"
+    ],
+    "status": "current",
+    "year": 2024
+  },
+  "M024-设备保修条款-HL8360CDW": {
+    "doc_type": "其他",
+    "scope": [
+      "北京总部",
+      "各子公司"
+    ],
+    "status": "current",
+    "year": 2024
+  },
+  "M025-设备保修条款-A3102-CN": {
+    "doc_type": "其他",
+    "scope": [
+      "北京总部",
+      "各子公司"
+    ],
+    "status": "current",
+    "year": 2024
+  },
+  "M026-设备保修条款-MATE70P-CN": {
+    "doc_type": "其他",
+    "scope": [
+      "北京总部",
+      "各子公司"
+    ],
+    "status": "current",
+    "year": 2026
+  },
+  "M027-设备保修条款-MI15U-CN": {
+    "doc_type": "其他",
+    "scope": [
+      "北京总部",
+      "各子公司"
+    ],
+    "status": "current",
+    "year": 2024
+  },
+  "M028-设备保修条款-MVX23CH-A": {
+    "doc_type": "其他",
+    "scope": [
+      "北京总部",
+      "各子公司"
+    ],
+    "status": "current",
+    "year": 2024
+  },
+  "M029-设备保修条款-MTP13-CN": {
+    "doc_type": "其他",
+    "scope": [
+      "北京总部",
+      "各子公司"
+    ],
+    "status": "current",
+    "year": 2026
+  },
+  "M030-设备保修条款-SP11-2IN1": {
+    "doc_type": "其他",
+    "scope": [
+      "北京总部",
+      "各子公司"
+    ],
+    "status": "current",
+    "year": 2026
+  },
+  "M031-设备保修条款-MXM3S-B": {
+    "doc_type": "其他",
+    "scope": [
+      "北京总部",
+      "各子公司"
+    ],
+    "status": "current",
+    "year": 2024
+  },
+  "M032-设备保修条款-SCHALO-B": {
+    "doc_type": "其他",
+    "scope": [
+      "北京总部",
+      "各子公司"
+    ],
+    "status": "current",
+    "year": 2025
+  },
+  "M033-设备保修条款-SVK8XY-C": {
+    "doc_type": "其他",
+    "scope": [
+      "北京总部",
+      "各子公司"
+    ],
+    "status": "current",
+    "year": 2024
+  },
+  "M034-设备保修条款-MBK5V6-CN": {
+    "doc_type": "其他",
+    "scope": [
+      "北京总部",
+      "各子公司"
+    ],
+    "status": "current",
+    "year": 2024
+  },
+  "M035-设备保修条款-PRRD6W": {
+    "doc_type": "其他",
+    "scope": [
+      "北京总部",
+      "各子公司"
+    ],
+    "status": "current",
+    "year": 2025
+  },
+  "M036-设备保修条款-TBWS5N-A": {
+    "doc_type": "其他",
+    "scope": [
+      "北京总部",
+      "各子公司"
+    ],
+    "status": "current",
+    "year": 2024
+  },
+  "M037-设备保修条款-MBPH2G-A": {
+    "doc_type": "其他",
+    "scope": [
+      "北京总部",
+      "各子公司"
+    ],
+    "status": "current",
+    "year": 2024
+  },
+  "M038-设备保修条款-LTZT3H-CN": {
+    "doc_type": "其他",
+    "scope": [
+      "北京总部",
+      "各子公司"
+    ],
+    "status": "current",
+    "year": 2026
+  },
+  "M039-设备保修条款-TBFJKT-C": {
+    "doc_type": "其他",
+    "scope": [
+      "北京总部",
+      "各子公司"
+    ],
+    "status": "current",
+    "year": 2026
+  },
+  "M040-设备保修条款-LTZJDP-A": {
+    "doc_type": "其他",
+    "scope": [
+      "北京总部",
+      "各子公司"
+    ],
+    "status": "current",
+    "year": 2025
+  },
+  "M041-设备保修条款-PRAATF-C": {
+    "doc_type": "其他",
+    "scope": [
+      "北京总部",
+      "各子公司"
+    ],
+    "status": "current",
+    "year": 2026
+  },
+  "M042-设备保修条款-ACGYAS-A": {
+    "doc_type": "其他",
+    "scope": [
+      "北京总部",
+      "各子公司"
+    ],
+    "status": "current",
+    "year": 2024
+  },
+  "M043-设备保修条款-MN8BPA": {
+    "doc_type": "其他",
+    "scope": [
+      "北京总部",
+      "各子公司"
+    ],
+    "status": "current",
+    "year": 2026
+  },
+  "M044-设备保修条款-SVPWQZ-C": {
+    "doc_type": "其他",
+    "scope": [
+      "北京总部",
+      "各子公司"
+    ],
+    "status": "current",
+    "year": 2025
+  },
+  "M045-设备保修条款-LTPKGP-B": {
+    "doc_type": "其他",
+    "scope": [
+      "北京总部",
+      "各子公司"
+    ],
+    "status": "current",
+    "year": 2026
+  },
+  "M046-设备保修条款-MNPZSK-2U": {
+    "doc_type": "其他",
+    "scope": [
+      "北京总部",
+      "各子公司"
+    ],
+    "status": "current",
+    "year": 2024
+  },
+  "M047-设备保修条款-NWKBB7-2U": {
+    "doc_type": "其他",
+    "scope": [
+      "北京总部",
+      "各子公司"
+    ],
+    "status": "current",
+    "year": 2026
+  },
+  "M048-设备保修条款-AC87A8": {
+    "doc_type": "其他",
+    "scope": [
+      "北京总部",
+      "各子公司"
+    ],
+    "status": "current",
+    "year": 2026
+  },
+  "M049-设备保修条款-ACVSQU-A": {
+    "doc_type": "其他",
+    "scope": [
+      "北京总部",
+      "各子公司"
+    ],
+    "status": "current",
+    "year": 2026
+  },
+  "M050-设备保修条款-TB9ZZK-CN": {
+    "doc_type": "其他",
+    "scope": [
+      "北京总部",
+      "各子公司"
+    ],
+    "status": "current",
+    "year": 2024
+  },
+  "M051-设备保修条款-TB9U99-CN": {
+    "doc_type": "其他",
+    "scope": [
+      "北京总部",
+      "各子公司"
+    ],
+    "status": "current",
+    "year": 2025
+  },
+  "M052-设备保修条款-NW25VY-CN": {
+    "doc_type": "其他",
+    "scope": [
+      "北京总部",
+      "各子公司"
+    ],
+    "status": "current",
+    "year": 2025
+  },
+  "M053-设备保修条款-MNQ7MP-CN": {
+    "doc_type": "其他",
+    "scope": [
+      "北京总部",
+      "各子公司"
+    ],
+    "status": "current",
+    "year": 2024
+  },
+  "M054-设备保修条款-LTKYWT-CN": {
+    "doc_type": "其他",
+    "scope": [
+      "北京总部",
+      "各子公司"
+    ],
+    "status": "current",
+    "year": 2025
+  },
+  "M055-设备保修条款-NW52EX-2U": {
+    "doc_type": "其他",
+    "scope": [
+      "北京总部",
+      "各子公司"
+    ],
+    "status": "current",
+    "year": 2024
+  },
+  "M056-设备保修条款-MN2DAK-B": {
+    "doc_type": "其他",
+    "scope": [
+      "北京总部",
+      "各子公司"
+    ],
+    "status": "current",
+    "year": 2025
+  },
+  "M057-设备保修条款-TBVVQW-CN": {
+    "doc_type": "其他",
+    "scope": [
+      "北京总部",
+      "各子公司"
+    ],
+    "status": "current",
+    "year": 2024
+  },
+  "M058-设备保修条款-MNUR7Z-B": {
+    "doc_type": "其他",
+    "scope": [
+      "北京总部",
+      "各子公司"
+    ],
+    "status": "current",
+    "year": 2025
+  },
+  "M059-设备保修条款-MNNZHB": {
+    "doc_type": "其他",
+    "scope": [
+      "北京总部",
+      "各子公司"
+    ],
+    "status": "current",
+    "year": 2024
+  },
+  "M060-设备保修条款-NW7RGY-2U": {
+    "doc_type": "其他",
+    "scope": [
+      "北京总部",
+      "各子公司"
+    ],
+    "status": "current",
+    "year": 2024
+  },
+  "M061-设备保修条款-ACMWL4-B": {
+    "doc_type": "其他",
+    "scope": [
+      "北京总部",
+      "各子公司"
+    ],
+    "status": "current",
+    "year": 2026
+  },
+  "M062-设备保修条款-PRHCL5-C": {
+    "doc_type": "其他",
+    "scope": [
+      "北京总部",
+      "各子公司"
+    ],
+    "status": "current",
+    "year": 2024
+  },
+  "M063-设备保修条款-MN5VDG": {
+    "doc_type": "其他",
+    "scope": [
+      "北京总部",
+      "各子公司"
+    ],
+    "status": "current",
+    "year": 2024
+  },
+  "M064-设备保修条款-SV3CH6-2U": {
+    "doc_type": "其他",
+    "scope": [
+      "北京总部",
+      "各子公司"
+    ],
+    "status": "current",
+    "year": 2026
+  },
+  "M065-设备保修条款-TBZMF3-A": {
+    "doc_type": "其他",
+    "scope": [
+      "北京总部",
+      "各子公司"
+    ],
+    "status": "current",
+    "year": 2024
+  },
+  "M066-设备保修条款-PR6QVT-B": {
+    "doc_type": "其他",
+    "scope": [
+      "北京总部",
+      "各子公司"
+    ],
+    "status": "current",
+    "year": 2024
+  },
+  "M067-设备保修条款-SVQDGE-2U": {
+    "doc_type": "其他",
+    "scope": [
+      "北京总部",
+      "各子公司"
+    ],
+    "status": "current",
+    "year": 2025
+  },
+  "M068-设备保修条款-NWYY83-C": {
+    "doc_type": "其他",
+    "scope": [
+      "北京总部",
+      "各子公司"
+    ],
+    "status": "current",
+    "year": 2026
+  },
+  "M069-设备保修条款-ACDD7A-2U": {
+    "doc_type": "其他",
+    "scope": [
+      "北京总部",
+      "各子公司"
+    ],
+    "status": "current",
+    "year": 2025
+  },
+  "M070-设备保修条款-NWMXX5": {
+    "doc_type": "其他",
+    "scope": [
+      "北京总部",
+      "各子公司"
+    ],
+    "status": "current",
+    "year": 2026
+  },
+  "M071-设备保修条款-TBFLRC-A": {
+    "doc_type": "其他",
+    "scope": [
+      "北京总部",
+      "各子公司"
+    ],
+    "status": "current",
+    "year": 2025
+  },
+  "M072-设备保修条款-TB76UK-B": {
+    "doc_type": "其他",
+    "scope": [
+      "北京总部",
+      "各子公司"
+    ],
+    "status": "current",
+    "year": 2024
+  },
+  "M073-设备保修条款-MBLNJ2-A": {
+    "doc_type": "其他",
+    "scope": [
+      "北京总部",
+      "各子公司"
+    ],
+    "status": "current",
+    "year": 2024
+  },
+  "M074-设备保修条款-SVHRMM-B": {
+    "doc_type": "其他",
+    "scope": [
+      "北京总部",
+      "各子公司"
+    ],
+    "status": "current",
+    "year": 2024
+  },
+  "M075-设备保修条款-PR7ED2": {
+    "doc_type": "其他",
+    "scope": [
+      "北京总部",
+      "各子公司"
+    ],
+    "status": "current",
+    "year": 2026
+  },
+  "M076-设备保修条款-SV2L9F-2U": {
+    "doc_type": "其他",
+    "scope": [
+      "北京总部",
+      "各子公司"
+    ],
+    "status": "current",
+    "year": 2024
+  },
+  "M077-设备保修条款-LTZ6TS-C": {
+    "doc_type": "其他",
+    "scope": [
+      "北京总部",
+      "各子公司"
+    ],
+    "status": "current",
+    "year": 2026
+  },
+  "M078-设备保修条款-SV97YC": {
+    "doc_type": "其他",
+    "scope": [
+      "北京总部",
+      "各子公司"
+    ],
+    "status": "current",
+    "year": 2024
+  },
+  "M079-设备保修条款-PRTD2C-C": {
+    "doc_type": "其他",
+    "scope": [
+      "北京总部",
+      "各子公司"
+    ],
+    "status": "current",
+    "year": 2025
+  },
+  "M080-设备保修条款-PRUGA9-B": {
+    "doc_type": "其他",
+    "scope": [
+      "北京总部",
+      "各子公司"
+    ],
+    "status": "current",
+    "year": 2026
+  },
+  "M081-设备保修条款-MBTFB3-CN": {
+    "doc_type": "其他",
+    "scope": [
+      "北京总部",
+      "各子公司"
+    ],
+    "status": "current",
+    "year": 2026
+  },
+  "M082-设备保修条款-SVVMK7-B": {
+    "doc_type": "其他",
+    "scope": [
+      "北京总部",
+      "各子公司"
+    ],
+    "status": "current",
+    "year": 2025
+  },
+  "M083-设备保修条款-LTBW5U-CN": {
+    "doc_type": "其他",
+    "scope": [
+      "北京总部",
+      "各子公司"
+    ],
+    "status": "current",
+    "year": 2026
+  },
+  "M084-设备保修条款-MNB52Z-A": {
+    "doc_type": "其他",
+    "scope": [
+      "北京总部",
+      "各子公司"
+    ],
+    "status": "current",
+    "year": 2025
+  },
+  "M085-设备保修条款-ACWEHX-B": {
+    "doc_type": "其他",
+    "scope": [
+      "北京总部",
+      "各子公司"
+    ],
+    "status": "current",
+    "year": 2024
+  },
+  "M086-设备保修条款-NW3YQD-A": {
+    "doc_type": "其他",
+    "scope": [
+      "北京总部",
+      "各子公司"
+    ],
+    "status": "current",
+    "year": 2025
+  },
+  "M087-设备保修条款-NWZ6R4": {
+    "doc_type": "其他",
+    "scope": [
+      "北京总部",
+      "各子公司"
+    ],
+    "status": "current",
+    "year": 2025
+  },
+  "M088-设备保修条款-TB6WFS-C": {
+    "doc_type": "其他",
+    "scope": [
+      "北京总部",
+      "各子公司"
+    ],
+    "status": "current",
+    "year": 2026
+  },
+  "M089-设备保修条款-LTDVKN-CN": {
+    "doc_type": "其他",
+    "scope": [
+      "北京总部",
+      "各子公司"
+    ],
+    "status": "current",
+    "year": 2025
+  },
+  "M090-设备保修条款-NWH2ZM-B": {
+    "doc_type": "其他",
+    "scope": [
+      "北京总部",
+      "各子公司"
+    ],
+    "status": "current",
+    "year": 2024
+  },
+  "M091-设备保修条款-NWN4G3-CN": {
+    "doc_type": "其他",
+    "scope": [
+      "北京总部",
+      "各子公司"
+    ],
+    "status": "current",
+    "year": 2025
+  },
+  "M092-设备保修条款-MNJ8NL-CN": {
+    "doc_type": "其他",
+    "scope": [
+      "北京总部",
+      "各子公司"
+    ],
+    "status": "current",
+    "year": 2024
+  },
+  "M093-设备保修条款-SVSAWB-CN": {
+    "doc_type": "其他",
+    "scope": [
+      "北京总部",
+      "各子公司"
+    ],
+    "status": "current",
+    "year": 2026
+  },
+  "M094-设备保修条款-PRHBCN-CN": {
+    "doc_type": "其他",
+    "scope": [
+      "北京总部",
+      "各子公司"
+    ],
+    "status": "current",
+    "year": 2026
+  },
+  "M095-设备保修条款-LTTVTH-A": {
+    "doc_type": "其他",
+    "scope": [
+      "北京总部",
+      "各子公司"
+    ],
+    "status": "current",
+    "year": 2026
+  },
+  "M096-设备保修条款-MN74GQ-2U": {
+    "doc_type": "其他",
+    "scope": [
+      "北京总部",
+      "各子公司"
+    ],
+    "status": "current",
+    "year": 2026
+  },
+  "M097-设备保修条款-TBBQR4-C": {
+    "doc_type": "其他",
+    "scope": [
+      "北京总部",
+      "各子公司"
+    ],
+    "status": "current",
+    "year": 2025
+  },
+  "M098-设备保修条款-MBX2SH-2U": {
+    "doc_type": "其他",
+    "scope": [
+      "北京总部",
+      "各子公司"
+    ],
+    "status": "current",
+    "year": 2025
+  },
+  "M099-设备保修条款-LT98PN-A": {
+    "doc_type": "其他",
+    "scope": [
+      "北京总部",
+      "各子公司"
+    ],
+    "status": "current",
+    "year": 2025
+  },
+  "M100-设备保修条款-PRYGJ6-2U": {
+    "doc_type": "其他",
+    "scope": [
+      "北京总部",
+      "各子公司"
+    ],
+    "status": "current",
+    "year": 2025
+  },
+  "M101-设备保修条款-PRP52M-B": {
+    "doc_type": "其他",
+    "scope": [
+      "北京总部",
+      "各子公司"
+    ],
+    "status": "current",
+    "year": 2025
+  },
+  "M102-设备保修条款-ACYSES-A": {
+    "doc_type": "其他",
+    "scope": [
+      "北京总部",
+      "各子公司"
+    ],
+    "status": "current",
+    "year": 2024
+  },
+  "M103-设备保修条款-MNHF6H-A": {
+    "doc_type": "其他",
+    "scope": [
+      "北京总部",
+      "各子公司"
+    ],
+    "status": "current",
+    "year": 2024
+  },
+  "M104-设备保修条款-ACH66P-B": {
+    "doc_type": "其他",
+    "scope": [
+      "北京总部",
+      "各子公司"
+    ],
+    "status": "current",
+    "year": 2025
+  },
+  "M105-设备保修条款-ACV2PP-C": {
+    "doc_type": "其他",
+    "scope": [
+      "北京总部",
+      "各子公司"
+    ],
+    "status": "current",
+    "year": 2025
+  },
+  "M106-设备保修条款-MNSMFA-2U": {
+    "doc_type": "其他",
+    "scope": [
+      "北京总部",
+      "各子公司"
+    ],
+    "status": "current",
+    "year": 2026
+  },
+  "M107-设备保修条款-TBQPS7-C": {
+    "doc_type": "其他",
+    "scope": [
+      "北京总部",
+      "各子公司"
+    ],
+    "status": "current",
+    "year": 2024
+  },
+  "M108-设备保修条款-ACAP6E-C": {
+    "doc_type": "其他",
+    "scope": [
+      "北京总部",
+      "各子公司"
+    ],
+    "status": "current",
+    "year": 2025
+  },
+  "M109-设备保修条款-AC8SNG-2U": {
+    "doc_type": "其他",
+    "scope": [
+      "北京总部",
+      "各子公司"
+    ],
+    "status": "current",
+    "year": 2025
+  },
+  "M110-设备保修条款-MBDCK9-B": {
+    "doc_type": "其他",
+    "scope": [
+      "北京总部",
+      "各子公司"
+    ],
+    "status": "current",
+    "year": 2026
+  },
+  "M111-设备保修条款-MN9WAP-2U": {
+    "doc_type": "其他",
+    "scope": [
+      "北京总部",
+      "各子公司"
+    ],
+    "status": "current",
+    "year": 2025
+  },
+  "M112-设备保修条款-NWWSGP-C": {
+    "doc_type": "其他",
+    "scope": [
+      "北京总部",
+      "各子公司"
+    ],
+    "status": "current",
+    "year": 2024
+  },
+  "M113-设备保修条款-MBS8YG-CN": {
+    "doc_type": "其他",
+    "scope": [
+      "北京总部",
+      "各子公司"
+    ],
+    "status": "current",
+    "year": 2025
+  },
+  "M114-设备保修条款-PR2U3D-B": {
+    "doc_type": "其他",
+    "scope": [
+      "北京总部",
+      "各子公司"
+    ],
+    "status": "current",
+    "year": 2026
+  },
+  "M115-设备保修条款-SVXL5T-CN": {
+    "doc_type": "其他",
+    "scope": [
+      "北京总部",
+      "各子公司"
+    ],
+    "status": "current",
+    "year": 2024
+  },
+  "M116-设备保修条款-MN2JAG-2U": {
+    "doc_type": "其他",
+    "scope": [
+      "北京总部",
+      "各子公司"
+    ],
+    "status": "current",
+    "year": 2025
+  },
+  "M117-设备保修条款-PR6ANT-CN": {
+    "doc_type": "其他",
+    "scope": [
+      "北京总部",
+      "各子公司"
+    ],
+    "status": "current",
+    "year": 2026
+  },
+  "M118-设备保修条款-NW9N8C": {
+    "doc_type": "其他",
+    "scope": [
+      "北京总部",
+      "各子公司"
+    ],
+    "status": "current",
+    "year": 2025
+  },
+  "M119-设备保修条款-TBRQAW-C": {
+    "doc_type": "其他",
+    "scope": [
+      "北京总部",
+      "各子公司"
+    ],
+    "status": "current",
+    "year": 2025
+  },
+  "M120-设备保修条款-ACR6ND-A": {
+    "doc_type": "其他",
+    "scope": [
+      "北京总部",
+      "各子公司"
+    ],
+    "status": "current",
+    "year": 2025
+  },
+  "M121-设备保修条款-PR53T7-B": {
+    "doc_type": "其他",
+    "scope": [
+      "北京总部",
+      "各子公司"
+    ],
+    "status": "current",
+    "year": 2025
+  },
+  "M122-设备保修条款-MNBDTA-CN": {
+    "doc_type": "其他",
+    "scope": [
+      "北京总部",
+      "各子公司"
+    ],
+    "status": "current",
+    "year": 2026
+  },
+  "M123-设备保修条款-NWUNUF-C": {
+    "doc_type": "其他",
+    "scope": [
+      "北京总部",
+      "各子公司"
+    ],
+    "status": "current",
+    "year": 2024
+  },
+  "M124-设备保修条款-AC7ELF-2U": {
+    "doc_type": "其他",
+    "scope": [
+      "北京总部",
+      "各子公司"
+    ],
+    "status": "current",
+    "year": 2025
+  },
+  "M125-设备保修条款-MBUKNA-C": {
+    "doc_type": "其他",
+    "scope": [
+      "北京总部",
+      "各子公司"
+    ],
+    "status": "current",
+    "year": 2024
+  },
+  "M126-设备保修条款-AC5ZAL-CN": {
+    "doc_type": "其他",
+    "scope": [
+      "北京总部",
+      "各子公司"
+    ],
+    "status": "current",
+    "year": 2024
+  },
+  "M127-设备保修条款-MB6UG8-A": {
+    "doc_type": "其他",
+    "scope": [
+      "北京总部",
+      "各子公司"
+    ],
+    "status": "current",
+    "year": 2024
+  },
+  "M128-设备保修条款-NWHC6P-A": {
+    "doc_type": "其他",
+    "scope": [
+      "北京总部",
+      "各子公司"
+    ],
+    "status": "current",
+    "year": 2025
+  },
+  "M129-设备保修条款-NW7TZC-2U": {
+    "doc_type": "其他",
+    "scope": [
+      "北京总部",
+      "各子公司"
+    ],
+    "status": "current",
+    "year": 2026
+  },
+  "M130-设备保修条款-LTHG4H-CN": {
+    "doc_type": "其他",
+    "scope": [
+      "北京总部",
+      "各子公司"
+    ],
+    "status": "current",
+    "year": 2024
+  },
+  "M131-设备保修条款-AC8LNX-2U": {
+    "doc_type": "其他",
+    "scope": [
+      "北京总部",
+      "各子公司"
+    ],
+    "status": "current",
+    "year": 2026
+  },
+  "M132-设备保修条款-MNJWMQ-B": {
+    "doc_type": "其他",
+    "scope": [
+      "北京总部",
+      "各子公司"
+    ],
+    "status": "current",
+    "year": 2024
+  },
+  "M133-设备保修条款-MNYGA3-B": {
+    "doc_type": "其他",
+    "scope": [
+      "北京总部",
+      "各子公司"
+    ],
+    "status": "current",
+    "year": 2026
+  },
+  "M134-设备保修条款-NWBKMT-B": {
+    "doc_type": "其他",
+    "scope": [
+      "北京总部",
+      "各子公司"
+    ],
+    "status": "current",
+    "year": 2026
+  },
+  "M135-设备保修条款-NWSBX9-2U": {
+    "doc_type": "其他",
+    "scope": [
+      "北京总部",
+      "各子公司"
+    ],
+    "status": "current",
+    "year": 2024
+  },
+  "M136-设备保修条款-LTBYSC-C": {
+    "doc_type": "其他",
+    "scope": [
+      "北京总部",
+      "各子公司"
+    ],
+    "status": "current",
+    "year": 2024
+  },
+  "M137-设备保修条款-TBGY2T-B": {
+    "doc_type": "其他",
+    "scope": [
+      "北京总部",
+      "各子公司"
+    ],
+    "status": "current",
+    "year": 2025
+  },
+  "M138-设备保修条款-TBWR6D-CN": {
+    "doc_type": "其他",
+    "scope": [
+      "北京总部",
+      "各子公司"
+    ],
+    "status": "current",
+    "year": 2024
+  },
+  "M139-设备保修条款-NWKVWG-CN": {
+    "doc_type": "其他",
+    "scope": [
+      "北京总部",
+      "各子公司"
+    ],
+    "status": "current",
+    "year": 2026
+  },
+  "M140-设备保修条款-TB34HJ-CN": {
+    "doc_type": "其他",
+    "scope": [
+      "北京总部",
+      "各子公司"
+    ],
+    "status": "current",
+    "year": 2025
+  },
+  "M141-设备保修条款-MN4A4J": {
+    "doc_type": "其他",
+    "scope": [
+      "北京总部",
+      "各子公司"
+    ],
+    "status": "current",
+    "year": 2025
+  },
+  "M142-设备保修条款-NWVFQZ-2U": {
+    "doc_type": "其他",
+    "scope": [
+      "北京总部",
+      "各子公司"
+    ],
+    "status": "current",
+    "year": 2025
+  },
+  "M143-设备保修条款-ACUP9D-B": {
+    "doc_type": "其他",
+    "scope": [
+      "北京总部",
+      "各子公司"
+    ],
+    "status": "current",
+    "year": 2025
+  },
+  "M144-设备保修条款-PRBZD9-A": {
+    "doc_type": "其他",
+    "scope": [
+      "北京总部",
+      "各子公司"
+    ],
+    "status": "current",
+    "year": 2024
+  },
+  "M145-设备保修条款-ACWMTK-A": {
+    "doc_type": "其他",
+    "scope": [
+      "北京总部",
+      "各子公司"
+    ],
+    "status": "current",
+    "year": 2025
+  },
+  "M146-设备保修条款-MN82JG-CN": {
+    "doc_type": "其他",
+    "scope": [
+      "北京总部",
+      "各子公司"
+    ],
+    "status": "current",
+    "year": 2024
+  },
+  "M147-设备保修条款-MNP6VV-2U": {
+    "doc_type": "其他",
+    "scope": [
+      "北京总部",
+      "各子公司"
+    ],
+    "status": "current",
+    "year": 2026
+  },
+  "M148-设备保修条款-PRAFM4-B": {
+    "doc_type": "其他",
+    "scope": [
+      "北京总部",
+      "各子公司"
+    ],
+    "status": "current",
+    "year": 2024
+  },
+  "M149-设备保修条款-ACYA4J-A": {
+    "doc_type": "其他",
+    "scope": [
+      "北京总部",
+      "各子公司"
+    ],
+    "status": "current",
+    "year": 2024
+  },
+  "M150-设备保修条款-SV5VE5-C": {
+    "doc_type": "其他",
+    "scope": [
+      "北京总部",
+      "各子公司"
+    ],
+    "status": "current",
+    "year": 2025
+  },
+  "M151-设备保修条款-SVH3NZ-2U": {
+    "doc_type": "其他",
+    "scope": [
+      "北京总部",
+      "各子公司"
+    ],
+    "status": "current",
+    "year": 2024
+  },
+  "M152-设备保修条款-MBVWJ5-A": {
+    "doc_type": "其他",
+    "scope": [
+      "北京总部",
+      "各子公司"
+    ],
+    "status": "current",
+    "year": 2026
+  },
+  "M153-设备保修条款-SVT2J8": {
+    "doc_type": "其他",
+    "scope": [
+      "北京总部",
+      "各子公司"
+    ],
+    "status": "current",
+    "year": 2026
+  },
+  "M154-设备保修条款-TBASQ8-CN": {
+    "doc_type": "其他",
+    "scope": [
+      "北京总部",
+      "各子公司"
+    ],
+    "status": "current",
+    "year": 2026
+  },
+  "M155-设备保修条款-SVS8VW-C": {
+    "doc_type": "其他",
+    "scope": [
+      "北京总部",
+      "各子公司"
+    ],
+    "status": "current",
+    "year": 2024
+  },
+  "M156-设备保修条款-TB53LQ": {
+    "doc_type": "其他",
+    "scope": [
+      "北京总部",
+      "各子公司"
+    ],
+    "status": "current",
+    "year": 2025
+  },
+  "M157-设备保修条款-PRSKCF-A": {
+    "doc_type": "其他",
+    "scope": [
+      "北京总部",
+      "各子公司"
+    ],
+    "status": "current",
+    "year": 2026
+  },
+  "M158-设备保修条款-NW26YU-B": {
+    "doc_type": "其他",
+    "scope": [
+      "北京总部",
+      "各子公司"
+    ],
+    "status": "current",
+    "year": 2024
+  },
+  "M159-设备保修条款-PRUC2G-A": {
+    "doc_type": "其他",
+    "scope": [
+      "北京总部",
+      "各子公司"
+    ],
+    "status": "current",
+    "year": 2024
+  },
+  "M160-设备保修条款-NW7B3D-A": {
+    "doc_type": "其他",
+    "scope": [
+      "北京总部",
+      "各子公司"
+    ],
+    "status": "current",
+    "year": 2024
+  },
+  "M161-设备保修条款-MNWN8X-B": {
+    "doc_type": "其他",
+    "scope": [
+      "北京总部",
+      "各子公司"
+    ],
+    "status": "current",
+    "year": 2026
+  },
+  "M162-设备保修条款-TBX9P2-A": {
+    "doc_type": "其他",
+    "scope": [
+      "北京总部",
+      "各子公司"
+    ],
+    "status": "current",
+    "year": 2026
+  },
+  "M163-设备保修条款-MBYRF3-CN": {
+    "doc_type": "其他",
+    "scope": [
+      "北京总部",
+      "各子公司"
+    ],
+    "status": "current",
+    "year": 2025
+  },
+  "M164-设备保修条款-LTFATW-C": {
+    "doc_type": "其他",
+    "scope": [
+      "北京总部",
+      "各子公司"
+    ],
+    "status": "current",
+    "year": 2026
+  },
+  "M165-设备保修条款-LTYL7W": {
+    "doc_type": "其他",
+    "scope": [
+      "北京总部",
+      "各子公司"
+    ],
+    "status": "current",
+    "year": 2025
+  },
+  "M166-设备保修条款-MNKF4A-CN": {
+    "doc_type": "其他",
+    "scope": [
+      "北京总部",
+      "各子公司"
+    ],
+    "status": "current",
+    "year": 2025
+  },
+  "M167-设备保修条款-MBY5S2-B": {
+    "doc_type": "其他",
+    "scope": [
+      "北京总部",
+      "各子公司"
+    ],
+    "status": "current",
+    "year": 2024
+  },
+  "M168-设备保修条款-MN7YS9": {
+    "doc_type": "其他",
+    "scope": [
+      "北京总部",
+      "各子公司"
+    ],
+    "status": "current",
+    "year": 2024
+  },
+  "M169-设备保修条款-LTASVV-CN": {
+    "doc_type": "其他",
+    "scope": [
+      "北京总部",
+      "各子公司"
+    ],
+    "status": "current",
+    "year": 2025
+  },
+  "M170-设备保修条款-TBKSMM-2U": {
+    "doc_type": "其他",
+    "scope": [
+      "北京总部",
+      "各子公司"
+    ],
+    "status": "current",
+    "year": 2024
+  },
+  "M171-设备保修条款-NW8MFG": {
+    "doc_type": "其他",
+    "scope": [
+      "北京总部",
+      "各子公司"
+    ],
+    "status": "current",
+    "year": 2024
+  },
+  "M172-设备保修条款-LTWLV9-2U": {
+    "doc_type": "其他",
+    "scope": [
+      "北京总部",
+      "各子公司"
+    ],
+    "status": "current",
+    "year": 2025
+  },
+  "M173-设备保修条款-NW39FH-B": {
+    "doc_type": "其他",
+    "scope": [
+      "北京总部",
+      "各子公司"
+    ],
+    "status": "current",
+    "year": 2026
+  },
+  "M174-设备保修条款-MNDU8G-C": {
+    "doc_type": "其他",
+    "scope": [
+      "北京总部",
+      "各子公司"
+    ],
+    "status": "current",
+    "year": 2024
+  },
+  "M175-设备保修条款-LTA3RQ-2U": {
+    "doc_type": "其他",
+    "scope": [
+      "北京总部",
+      "各子公司"
+    ],
+    "status": "current",
+    "year": 2025
+  },
+  "M176-设备保修条款-MNPBG6-CN": {
+    "doc_type": "其他",
+    "scope": [
+      "北京总部",
+      "各子公司"
+    ],
+    "status": "current",
+    "year": 2026
+  },
+  "M177-设备保修条款-ACRKJ3-CN": {
+    "doc_type": "其他",
+    "scope": [
+      "北京总部",
+      "各子公司"
+    ],
+    "status": "current",
+    "year": 2026
+  },
+  "M178-设备保修条款-ACT6CU-CN": {
+    "doc_type": "其他",
+    "scope": [
+      "北京总部",
+      "各子公司"
+    ],
+    "status": "current",
+    "year": 2025
+  },
+  "M179-设备保修条款-MNK5E5-A": {
+    "doc_type": "其他",
+    "scope": [
+      "北京总部",
+      "各子公司"
+    ],
+    "status": "current",
+    "year": 2026
+  },
+  "M180-设备保修条款-MNAK96-A": {
+    "doc_type": "其他",
+    "scope": [
+      "北京总部",
+      "各子公司"
+    ],
+    "status": "current",
+    "year": 2024
+  },
+  "M181-设备保修条款-ACMUUW-2U": {
+    "doc_type": "其他",
+    "scope": [
+      "北京总部",
+      "各子公司"
+    ],
+    "status": "current",
+    "year": 2026
+  },
+  "M182-设备保修条款-NWH3Q2-B": {
+    "doc_type": "其他",
+    "scope": [
+      "北京总部",
+      "各子公司"
+    ],
+    "status": "current",
+    "year": 2025
+  },
+  "M183-设备保修条款-LTWLUR-C": {
+    "doc_type": "其他",
+    "scope": [
+      "北京总部",
+      "各子公司"
+    ],
+    "status": "current",
+    "year": 2024
+  },
+  "M184-设备保修条款-TBZH2E-2U": {
+    "doc_type": "其他",
+    "scope": [
+      "北京总部",
+      "各子公司"
+    ],
+    "status": "current",
+    "year": 2024
+  },
+  "M185-设备保修条款-SVUSEW-A": {
+    "doc_type": "其他",
+    "scope": [
+      "北京总部",
+      "各子公司"
+    ],
+    "status": "current",
+    "year": 2025
+  },
+  "M186-设备保修条款-SV7YDE": {
+    "doc_type": "其他",
+    "scope": [
+      "北京总部",
+      "各子公司"
+    ],
+    "status": "current",
+    "year": 2025
+  },
+  "M187-设备保修条款-NWPXXU-2U": {
+    "doc_type": "其他",
+    "scope": [
+      "北京总部",
+      "各子公司"
+    ],
+    "status": "current",
+    "year": 2026
+  },
+  "M188-设备保修条款-PRBK8U-A": {
+    "doc_type": "其他",
+    "scope": [
+      "北京总部",
+      "各子公司"
+    ],
+    "status": "current",
+    "year": 2024
+  },
+  "M189-设备保修条款-PR3XRN-C": {
+    "doc_type": "其他",
+    "scope": [
+      "北京总部",
+      "各子公司"
+    ],
+    "status": "current",
+    "year": 2026
+  },
+  "M190-设备保修条款-ACB4D4-B": {
+    "doc_type": "其他",
+    "scope": [
+      "北京总部",
+      "各子公司"
+    ],
+    "status": "current",
+    "year": 2024
+  },
+  "M191-设备保修条款-MBJURK-C": {
+    "doc_type": "其他",
+    "scope": [
+      "北京总部",
+      "各子公司"
+    ],
+    "status": "current",
+    "year": 2026
+  },
+  "M192-设备保修条款-MB8QBE-CN": {
+    "doc_type": "其他",
+    "scope": [
+      "北京总部",
+      "各子公司"
+    ],
+    "status": "current",
+    "year": 2024
+  },
+  "M193-设备保修条款-MBGQCX-CN": {
+    "doc_type": "其他",
+    "scope": [
+      "北京总部",
+      "各子公司"
+    ],
+    "status": "current",
+    "year": 2026
+  },
+  "M194-设备保修条款-NWZ6XH-CN": {
+    "doc_type": "其他",
+    "scope": [
+      "北京总部",
+      "各子公司"
+    ],
+    "status": "current",
+    "year": 2025
+  },
+  "M195-设备保修条款-NWNTWM-2U": {
+    "doc_type": "其他",
+    "scope": [
+      "北京总部",
+      "各子公司"
+    ],
+    "status": "current",
+    "year": 2025
+  },
+  "M196-设备保修条款-NWWH86-B": {
+    "doc_type": "其他",
+    "scope": [
+      "北京总部",
+      "各子公司"
+    ],
+    "status": "current",
+    "year": 2026
+  },
+  "M197-设备保修条款-SV88JE": {
+    "doc_type": "其他",
+    "scope": [
+      "北京总部",
+      "各子公司"
+    ],
+    "status": "current",
+    "year": 2025
+  },
+  "M198-设备保修条款-PRC6FV": {
+    "doc_type": "其他",
+    "scope": [
+      "北京总部",
+      "各子公司"
+    ],
+    "status": "current",
+    "year": 2024
+  },
+  "M199-设备保修条款-NWRZGJ-CN": {
+    "doc_type": "其他",
+    "scope": [
+      "北京总部",
+      "各子公司"
+    ],
+    "status": "current",
+    "year": 2025
+  },
+  "M200-设备保修条款-MBYDY8-CN": {
+    "doc_type": "其他",
+    "scope": [
+      "北京总部",
+      "各子公司"
+    ],
+    "status": "current",
+    "year": 2025
+  },
+  "M201-设备保修条款-NWK9HX": {
+    "doc_type": "其他",
+    "scope": [
+      "北京总部",
+      "各子公司"
+    ],
+    "status": "current",
+    "year": 2026
+  },
+  "M202-设备保修条款-TB8NBS-CN": {
+    "doc_type": "其他",
+    "scope": [
+      "北京总部",
+      "各子公司"
+    ],
+    "status": "current",
+    "year": 2026
+  },
+  "M203-设备保修条款-TB8F7A-A": {
+    "doc_type": "其他",
+    "scope": [
+      "北京总部",
+      "各子公司"
+    ],
+    "status": "current",
+    "year": 2026
+  },
+  "M204-设备保修条款-MB85D2-C": {
+    "doc_type": "其他",
+    "scope": [
+      "北京总部",
+      "各子公司"
+    ],
+    "status": "current",
+    "year": 2024
+  },
+  "M205-设备保修条款-MBQSY9": {
+    "doc_type": "其他",
+    "scope": [
+      "北京总部",
+      "各子公司"
+    ],
+    "status": "current",
+    "year": 2026
+  },
+  "M206-设备保修条款-MN7HTX-B": {
+    "doc_type": "其他",
+    "scope": [
+      "北京总部",
+      "各子公司"
+    ],
+    "status": "current",
+    "year": 2024
+  },
+  "M207-设备保修条款-NWP326-CN": {
+    "doc_type": "其他",
+    "scope": [
+      "北京总部",
+      "各子公司"
+    ],
+    "status": "current",
+    "year": 2026
+  },
+  "M208-设备保修条款-NWNVK3-C": {
+    "doc_type": "其他",
+    "scope": [
+      "北京总部",
+      "各子公司"
+    ],
+    "status": "current",
+    "year": 2026
+  },
+  "M209-设备保修条款-AC7QCS": {
+    "doc_type": "其他",
+    "scope": [
+      "北京总部",
+      "各子公司"
+    ],
+    "status": "current",
+    "year": 2024
+  },
+  "M210-设备保修条款-MBWGBG-C": {
+    "doc_type": "其他",
+    "scope": [
+      "北京总部",
+      "各子公司"
+    ],
+    "status": "current",
+    "year": 2026
+  },
+  "M211-设备保修条款-TB3A9P-C": {
+    "doc_type": "其他",
+    "scope": [
+      "北京总部",
+      "各子公司"
+    ],
+    "status": "current",
+    "year": 2025
+  },
+  "M212-设备保修条款-MBXADF-C": {
+    "doc_type": "其他",
+    "scope": [
+      "北京总部",
+      "各子公司"
+    ],
+    "status": "current",
+    "year": 2025
+  },
+  "M213-设备保修条款-MBXQTH-B": {
+    "doc_type": "其他",
+    "scope": [
+      "北京总部",
+      "各子公司"
+    ],
+    "status": "current",
+    "year": 2025
+  },
+  "M214-设备保修条款-SVJTHH-C": {
+    "doc_type": "其他",
+    "scope": [
+      "北京总部",
+      "各子公司"
+    ],
+    "status": "current",
+    "year": 2025
+  },
+  "M215-设备保修条款-LT3QEL-B": {
+    "doc_type": "其他",
+    "scope": [
+      "北京总部",
+      "各子公司"
+    ],
+    "status": "current",
+    "year": 2026
+  },
+  "M216-设备保修条款-MBVY9H": {
+    "doc_type": "其他",
+    "scope": [
+      "北京总部",
+      "各子公司"
+    ],
+    "status": "current",
+    "year": 2024
+  },
+  "M217-设备保修条款-ACCTJQ-C": {
+    "doc_type": "其他",
+    "scope": [
+      "北京总部",
+      "各子公司"
+    ],
+    "status": "current",
+    "year": 2024
+  },
+  "M218-设备保修条款-TBNL3W-B": {
+    "doc_type": "其他",
+    "scope": [
+      "北京总部",
+      "各子公司"
+    ],
+    "status": "current",
+    "year": 2025
+  },
+  "M219-设备保修条款-SVFCF6-CN": {
+    "doc_type": "其他",
+    "scope": [
+      "北京总部",
+      "各子公司"
+    ],
+    "status": "current",
+    "year": 2026
+  },
+  "M220-设备保修条款-MN4C5R-C": {
+    "doc_type": "其他",
+    "scope": [
+      "北京总部",
+      "各子公司"
+    ],
+    "status": "current",
+    "year": 2025
+  },
+  "M221-设备保修条款-LT2XWQ": {
+    "doc_type": "其他",
+    "scope": [
+      "北京总部",
+      "各子公司"
+    ],
+    "status": "current",
+    "year": 2024
+  },
+  "M222-设备保修条款-TBH5E9-C": {
+    "doc_type": "其他",
+    "scope": [
+      "北京总部",
+      "各子公司"
+    ],
+    "status": "current",
+    "year": 2024
+  },
+  "M223-设备保修条款-NWFNW7": {
+    "doc_type": "其他",
+    "scope": [
+      "北京总部",
+      "各子公司"
+    ],
+    "status": "current",
+    "year": 2026
+  },
+  "M224-设备保修条款-NW62WR-B": {
+    "doc_type": "其他",
+    "scope": [
+      "北京总部",
+      "各子公司"
+    ],
+    "status": "current",
+    "year": 2024
+  },
+  "M225-设备保修条款-AC2AV7-C": {
+    "doc_type": "其他",
+    "scope": [
+      "北京总部",
+      "各子公司"
+    ],
+    "status": "current",
+    "year": 2026
+  },
+  "M226-设备保修条款-LTB8BG-C": {
+    "doc_type": "其他",
+    "scope": [
+      "北京总部",
+      "各子公司"
+    ],
+    "status": "current",
+    "year": 2026
+  },
+  "M227-设备保修条款-NWTMQG-2U": {
+    "doc_type": "其他",
+    "scope": [
+      "北京总部",
+      "各子公司"
+    ],
+    "status": "current",
+    "year": 2026
+  },
+  "M228-设备保修条款-MNN4N2": {
+    "doc_type": "其他",
+    "scope": [
+      "北京总部",
+      "各子公司"
+    ],
+    "status": "current",
+    "year": 2024
+  },
+  "M229-设备保修条款-MBAXEN-2U": {
+    "doc_type": "其他",
+    "scope": [
+      "北京总部",
+      "各子公司"
+    ],
+    "status": "current",
+    "year": 2025
+  },
+  "M230-设备保修条款-SVZZ47-CN": {
+    "doc_type": "其他",
+    "scope": [
+      "北京总部",
+      "各子公司"
+    ],
+    "status": "current",
+    "year": 2024
+  },
+  "M231-设备保修条款-ACE747-A": {
+    "doc_type": "其他",
+    "scope": [
+      "北京总部",
+      "各子公司"
+    ],
+    "status": "current",
+    "year": 2026
+  },
+  "M232-设备保修条款-TBZVHH-2U": {
+    "doc_type": "其他",
+    "scope": [
+      "北京总部",
+      "各子公司"
+    ],
+    "status": "current",
+    "year": 2026
+  },
+  "M233-设备保修条款-SVLKYE-2U": {
+    "doc_type": "其他",
+    "scope": [
+      "北京总部",
+      "各子公司"
+    ],
+    "status": "current",
+    "year": 2025
+  },
+  "M234-设备保修条款-PRBTNZ-C": {
+    "doc_type": "其他",
+    "scope": [
+      "北京总部",
+      "各子公司"
+    ],
+    "status": "current",
+    "year": 2024
+  },
+  "M235-设备保修条款-LT4A7F": {
+    "doc_type": "其他",
+    "scope": [
+      "北京总部",
+      "各子公司"
+    ],
+    "status": "current",
+    "year": 2026
+  },
+  "M236-设备保修条款-MB5AFN-CN": {
+    "doc_type": "其他",
+    "scope": [
+      "北京总部",
+      "各子公司"
+    ],
+    "status": "current",
+    "year": 2026
+  },
+  "M237-设备保修条款-MNBBSQ": {
+    "doc_type": "其他",
+    "scope": [
+      "北京总部",
+      "各子公司"
+    ],
+    "status": "current",
+    "year": 2026
+  },
+  "M238-设备保修条款-MBNTXB-C": {
+    "doc_type": "其他",
+    "scope": [
+      "北京总部",
+      "各子公司"
+    ],
+    "status": "current",
+    "year": 2025
+  },
+  "M239-设备保修条款-NWVX9G": {
+    "doc_type": "其他",
+    "scope": [
+      "北京总部",
+      "各子公司"
+    ],
+    "status": "current",
+    "year": 2026
+  },
+  "M240-设备保修条款-MNCBB9-A": {
+    "doc_type": "其他",
+    "scope": [
+      "北京总部",
+      "各子公司"
+    ],
+    "status": "current",
+    "year": 2026
+  },
+  "M241-设备保修条款-PRWCPK-2U": {
+    "doc_type": "其他",
+    "scope": [
+      "北京总部",
+      "各子公司"
+    ],
+    "status": "current",
+    "year": 2025
+  },
+  "M242-设备保修条款-TB6W2L": {
+    "doc_type": "其他",
+    "scope": [
+      "北京总部",
+      "各子公司"
+    ],
+    "status": "current",
+    "year": 2026
+  },
+  "M243-设备保修条款-SV37DK-2U": {
+    "doc_type": "其他",
+    "scope": [
+      "北京总部",
+      "各子公司"
+    ],
+    "status": "current",
+    "year": 2024
+  },
+  "M244-设备保修条款-ACJ9WZ": {
+    "doc_type": "其他",
+    "scope": [
+      "北京总部",
+      "各子公司"
+    ],
+    "status": "current",
+    "year": 2026
+  },
+  "M245-设备保修条款-MBX6NQ-B": {
+    "doc_type": "其他",
+    "scope": [
+      "北京总部",
+      "各子公司"
+    ],
+    "status": "current",
+    "year": 2025
+  },
+  "M246-设备保修条款-MB2RQE-C": {
+    "doc_type": "其他",
+    "scope": [
+      "北京总部",
+      "各子公司"
+    ],
+    "status": "current",
+    "year": 2024
+  },
+  "M247-设备保修条款-MNDH2L-B": {
+    "doc_type": "其他",
+    "scope": [
+      "北京总部",
+      "各子公司"
+    ],
+    "status": "current",
+    "year": 2025
+  },
+  "M248-设备保修条款-TBE79H-B": {
+    "doc_type": "其他",
+    "scope": [
+      "北京总部",
+      "各子公司"
+    ],
+    "status": "current",
+    "year": 2026
+  },
+  "M249-设备保修条款-LTW48W": {
+    "doc_type": "其他",
+    "scope": [
+      "北京总部",
+      "各子公司"
+    ],
+    "status": "current",
+    "year": 2026
+  },
+  "M250-设备保修条款-PRYQFK-2U": {
+    "doc_type": "其他",
+    "scope": [
+      "北京总部",
+      "各子公司"
+    ],
+    "status": "current",
+    "year": 2024
+  },
+  "M251-设备保修条款-MBCY45": {
+    "doc_type": "其他",
+    "scope": [
+      "北京总部",
+      "各子公司"
+    ],
+    "status": "current",
+    "year": 2024
+  },
+  "M252-设备保修条款-LTQLYY-CN": {
+    "doc_type": "其他",
+    "scope": [
+      "北京总部",
+      "各子公司"
+    ],
+    "status": "current",
+    "year": 2024
+  },
+  "M253-设备保修条款-TBEF2W": {
+    "doc_type": "其他",
+    "scope": [
+      "北京总部",
+      "各子公司"
+    ],
+    "status": "current",
+    "year": 2024
+  },
+  "M254-设备保修条款-TB3RWU-2U": {
+    "doc_type": "其他",
+    "scope": [
+      "北京总部",
+      "各子公司"
+    ],
+    "status": "current",
+    "year": 2026
+  },
+  "M255-设备保修条款-AC6BV6": {
+    "doc_type": "其他",
+    "scope": [
+      "北京总部",
+      "各子公司"
+    ],
+    "status": "current",
+    "year": 2025
+  },
+  "M256-设备保修条款-PRRJBW-A": {
+    "doc_type": "其他",
+    "scope": [
+      "北京总部",
+      "各子公司"
+    ],
+    "status": "current",
+    "year": 2025
+  },
+  "M257-设备保修条款-MBVKKN": {
+    "doc_type": "其他",
+    "scope": [
+      "北京总部",
+      "各子公司"
+    ],
+    "status": "current",
+    "year": 2026
+  },
+  "M258-设备保修条款-NWWH5R": {
+    "doc_type": "其他",
+    "scope": [
+      "北京总部",
+      "各子公司"
+    ],
+    "status": "current",
+    "year": 2024
+  },
+  "M259-设备保修条款-NWB2QD-2U": {
+    "doc_type": "其他",
+    "scope": [
+      "北京总部",
+      "各子公司"
+    ],
+    "status": "current",
+    "year": 2025
+  },
+  "M260-设备保修条款-NW5EJZ-A": {
+    "doc_type": "其他",
+    "scope": [
+      "北京总部",
+      "各子公司"
+    ],
+    "status": "current",
+    "year": 2024
+  },
+  "M261-设备保修条款-MB43E2-A": {
+    "doc_type": "其他",
+    "scope": [
+      "北京总部",
+      "各子公司"
+    ],
+    "status": "current",
+    "year": 2025
+  },
+  "M262-设备保修条款-MBE64E-2U": {
+    "doc_type": "其他",
+    "scope": [
+      "北京总部",
+      "各子公司"
+    ],
+    "status": "current",
+    "year": 2024
+  },
+  "M263-设备保修条款-MN4KUX-B": {
+    "doc_type": "其他",
+    "scope": [
+      "北京总部",
+      "各子公司"
+    ],
+    "status": "current",
+    "year": 2025
+  },
+  "M264-设备保修条款-SVVW69-C": {
+    "doc_type": "其他",
+    "scope": [
+      "北京总部",
+      "各子公司"
+    ],
+    "status": "current",
+    "year": 2024
+  },
+  "M265-设备保修条款-MBKJDR-CN": {
+    "doc_type": "其他",
+    "scope": [
+      "北京总部",
+      "各子公司"
+    ],
+    "status": "current",
+    "year": 2024
+  },
+  "M266-设备保修条款-LTZJES-B": {
+    "doc_type": "其他",
+    "scope": [
+      "北京总部",
+      "各子公司"
+    ],
+    "status": "current",
+    "year": 2025
+  },
+  "M267-设备保修条款-LTZ3W9-B": {
+    "doc_type": "其他",
+    "scope": [
+      "北京总部",
+      "各子公司"
+    ],
+    "status": "current",
+    "year": 2024
+  },
+  "M268-设备保修条款-LTLG33-C": {
+    "doc_type": "其他",
+    "scope": [
+      "北京总部",
+      "各子公司"
+    ],
+    "status": "current",
+    "year": 2025
+  },
+  "M269-设备保修条款-PRP7PN-A": {
+    "doc_type": "其他",
+    "scope": [
+      "北京总部",
+      "各子公司"
+    ],
+    "status": "current",
+    "year": 2025
+  },
+  "M270-设备保修条款-ACMVT5": {
+    "doc_type": "其他",
+    "scope": [
+      "北京总部",
+      "各子公司"
+    ],
+    "status": "current",
+    "year": 2025
+  },
+  "M271-设备保修条款-MBY2RD-CN": {
+    "doc_type": "其他",
+    "scope": [
+      "北京总部",
+      "各子公司"
+    ],
+    "status": "current",
+    "year": 2024
+  },
+  "M272-设备保修条款-MNSXM8-A": {
+    "doc_type": "其他",
+    "scope": [
+      "北京总部",
+      "各子公司"
+    ],
+    "status": "current",
+    "year": 2024
+  },
+  "M273-设备保修条款-TBQR2J-CN": {
+    "doc_type": "其他",
+    "scope": [
+      "北京总部",
+      "各子公司"
+    ],
+    "status": "current",
+    "year": 2025
+  },
+  "M274-设备保修条款-PRF3GY-C": {
+    "doc_type": "其他",
+    "scope": [
+      "北京总部",
+      "各子公司"
+    ],
+    "status": "current",
+    "year": 2024
+  },
+  "M275-设备保修条款-ACN3Z8-A": {
+    "doc_type": "其他",
+    "scope": [
+      "北京总部",
+      "各子公司"
+    ],
+    "status": "current",
+    "year": 2025
+  },
+  "M276-设备保修条款-TB6TGU": {
+    "doc_type": "其他",
+    "scope": [
+      "北京总部",
+      "各子公司"
+    ],
+    "status": "current",
+    "year": 2026
+  },
+  "M277-设备保修条款-MBZQFB-A": {
+    "doc_type": "其他",
+    "scope": [
+      "北京总部",
+      "各子公司"
+    ],
+    "status": "current",
+    "year": 2024
+  },
+  "M278-设备保修条款-PRFEQ3": {
+    "doc_type": "其他",
+    "scope": [
+      "北京总部",
+      "各子公司"
+    ],
+    "status": "current",
+    "year": 2025
+  },
+  "M279-设备保修条款-NWVZD6-B": {
+    "doc_type": "其他",
+    "scope": [
+      "北京总部",
+      "各子公司"
+    ],
+    "status": "current",
+    "year": 2024
+  },
+  "M280-设备保修条款-MB5C4V-A": {
+    "doc_type": "其他",
+    "scope": [
+      "北京总部",
+      "各子公司"
+    ],
+    "status": "current",
+    "year": 2026
+  },
+  "M281-设备保修条款-LTW4P3-C": {
+    "doc_type": "其他",
+    "scope": [
+      "北京总部",
+      "各子公司"
+    ],
+    "status": "current",
+    "year": 2024
+  },
+  "M282-设备保修条款-AC43F7-2U": {
+    "doc_type": "其他",
+    "scope": [
+      "北京总部",
+      "各子公司"
+    ],
+    "status": "current",
+    "year": 2025
+  },
+  "M283-设备保修条款-LTDYH4-C": {
+    "doc_type": "其他",
+    "scope": [
+      "北京总部",
+      "各子公司"
+    ],
+    "status": "current",
+    "year": 2026
+  },
+  "M284-设备保修条款-SV3SG9-A": {
+    "doc_type": "其他",
+    "scope": [
+      "北京总部",
+      "各子公司"
+    ],
+    "status": "current",
+    "year": 2024
+  },
+  "M285-设备保修条款-NW2HDY-CN": {
+    "doc_type": "其他",
+    "scope": [
+      "北京总部",
+      "各子公司"
+    ],
+    "status": "current",
+    "year": 2025
+  },
+  "M286-设备保修条款-SV7EP5-CN": {
+    "doc_type": "其他",
+    "scope": [
+      "北京总部",
+      "各子公司"
+    ],
+    "status": "current",
+    "year": 2026
+  },
+  "M287-设备保修条款-TBZBV5-A": {
+    "doc_type": "其他",
+    "scope": [
+      "北京总部",
+      "各子公司"
+    ],
+    "status": "current",
+    "year": 2024
+  },
+  "M288-设备保修条款-MN65P8-A": {
+    "doc_type": "其他",
+    "scope": [
+      "北京总部",
+      "各子公司"
+    ],
+    "status": "current",
+    "year": 2025
+  },
+  "M289-设备保修条款-LTHLMH-B": {
+    "doc_type": "其他",
+    "scope": [
+      "北京总部",
+      "各子公司"
+    ],
+    "status": "current",
+    "year": 2024
+  },
+  "M290-设备保修条款-MBJ7LB-2U": {
+    "doc_type": "其他",
+    "scope": [
+      "北京总部",
+      "各子公司"
+    ],
+    "status": "current",
+    "year": 2024
+  },
+  "M291-设备保修条款-ACZ5XJ-C": {
+    "doc_type": "其他",
+    "scope": [
+      "北京总部",
+      "各子公司"
+    ],
+    "status": "current",
+    "year": 2024
+  },
+  "M292-设备保修条款-MBQ8C8-CN": {
+    "doc_type": "其他",
+    "scope": [
+      "北京总部",
+      "各子公司"
+    ],
+    "status": "current",
+    "year": 2025
+  },
+  "M293-设备保修条款-NWSZFY-A": {
+    "doc_type": "其他",
+    "scope": [
+      "北京总部",
+      "各子公司"
+    ],
+    "status": "current",
+    "year": 2026
+  },
+  "M294-设备保修条款-PRTVSS-A": {
+    "doc_type": "其他",
+    "scope": [
+      "北京总部",
+      "各子公司"
+    ],
+    "status": "current",
+    "year": 2025
+  },
+  "M295-设备保修条款-PRZMCH-CN": {
+    "doc_type": "其他",
+    "scope": [
+      "北京总部",
+      "各子公司"
+    ],
+    "status": "current",
+    "year": 2025
+  },
+  "M296-设备保修条款-LTX7U3-B": {
+    "doc_type": "其他",
+    "scope": [
+      "北京总部",
+      "各子公司"
+    ],
+    "status": "current",
+    "year": 2024
+  },
+  "M297-设备保修条款-MB434U-2U": {
+    "doc_type": "其他",
+    "scope": [
+      "北京总部",
+      "各子公司"
+    ],
+    "status": "current",
+    "year": 2025
+  },
+  "M298-设备保修条款-PR9BNN": {
+    "doc_type": "其他",
+    "scope": [
+      "北京总部",
+      "各子公司"
+    ],
+    "status": "current",
+    "year": 2024
+  },
+  "M299-设备保修条款-NW6JLC-B": {
+    "doc_type": "其他",
+    "scope": [
+      "北京总部",
+      "各子公司"
+    ],
+    "status": "current",
+    "year": 2024
+  },
+  "M300-设备保修条款-ACKANF-CN": {
+    "doc_type": "其他",
+    "scope": [
+      "北京总部",
+      "各子公司"
+    ],
+    "status": "current",
+    "year": 2026
+  },
+  "N00-2026年新增办公设备配发通知": {
+    "doc_type": "通知",
+    "scope": [
+      "北京总部",
+      "各子公司"
+    ],
+    "status": "current",
+    "year": 2026
+  },
+  "N01-固定资产保修期限登记表": {
+    "doc_type": "其他",
+    "scope": [
+      "北京总部",
+      "各子公司"
+    ],
+    "status": "current",
+    "year": 2026
+  },
+  "Z-IT服务工单处理时限": {
+    "doc_type": "其他",
+    "scope": [
+      "北京总部",
+      "各子公司"
+    ],
+    "status": "current",
+    "year": 2026
+  },
+  "Z-办公设备报废与移交规定": {
+    "doc_type": "规定",
+    "scope": [
+      "北京总部",
+      "各子公司"
+    ],
+    "status": "current",
+    "year": 2026
+  },
+  "Z-固定资产报修与保修管理办法": {
+    "doc_type": "办法",
+    "scope": [
+      "北京总部",
+      "各子公司"
+    ],
+    "status": "current",
+    "year": 2026
+  },
+  "Z-固定资产领用登记规定": {
+    "doc_type": "规定",
+    "scope": [
+      "北京总部",
+      "各子公司"
+    ],
+    "status": "current",
+    "year": 2025
+  },
+  "Z-设备保修与维修管理办法": {
+    "doc_type": "办法",
+    "scope": [
+      "北京总部",
+      "各子公司"
+    ],
+    "status": "current",
+    "year": 2026
+  },
+  "corpus-index": {
+    "doc_type": "其他",
+    "scope": [],
+    "status": "current",
+    "year": null
+  }
+}

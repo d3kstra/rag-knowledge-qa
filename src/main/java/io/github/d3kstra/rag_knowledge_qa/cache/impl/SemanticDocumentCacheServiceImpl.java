@@ -1,5 +1,7 @@
 package io.github.d3kstra.rag_knowledge_qa.cache.impl;
 
+import io.github.d3kstra.rag_knowledge_qa.service.DocMetadataService;
+
 import io.github.d3kstra.rag_knowledge_qa.cache.SemanticDocumentCacheService;
 import io.github.d3kstra.rag_knowledge_qa.cache.model.SemanticDocumentCache;
 import io.github.d3kstra.rag_knowledge_qa.config.CacheConfig;
@@ -37,6 +39,7 @@ public class SemanticDocumentCacheServiceImpl implements SemanticDocumentCacheSe
     private final CacheConfig cacheConfig;
     private final JedisPooled jedisPooled;
     private final DocumentChunkRepository documentChunkRepository;
+    private final DocMetadataService docMetadataService;
 
     private static final String VECTOR_FIELD = "vector";
     private static final String QUERY_FIELD = "query";
@@ -117,8 +120,9 @@ public class SemanticDocumentCacheServiceImpl implements SemanticDocumentCacheSe
 
     private void enrichSemanticCacheHit(SemanticDocumentCache bestHit) {
         List<DocumentChunk> chunks = documentChunkRepository.findByIdIn(bestHit.getDocumentChunkIds());
+        // 与未命中路径保持一致：缓存命中时重新取到的 chunk 同样带元数据标注
         List<String> contextChunks = chunks.stream()
-                .map(DocumentChunk::getContent)
+                .map(c -> docMetadataService.label(c.getFileName(), c.getContent()))
                 .toList();
         bestHit.setContextChunks(contextChunks);
     }

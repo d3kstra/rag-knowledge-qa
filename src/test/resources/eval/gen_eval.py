@@ -112,7 +112,11 @@ def retrieved_text(row: dict, corpus: dict, include_cited: bool = True) -> str:
 
 
 def deterministic_metrics(row: dict, corpus: dict) -> dict:
-    ans = row.get("answer") or ""
+    ans_raw = row.get("answer") or ""
+    # 接地检查前先剔除《文件名》引用与【标签】：它们的数字来自文件名/元数据，不在 chunk 正文里，
+    # 否则会把"《01-年假管理制度》"里的 01 误判为无据数字（上下文标注上线后出现过这个假象）
+    ans = re.sub(r"《[^》]*》", "", ans_raw)
+    ans = re.sub(r"【[^】]*】", "", ans)
     ctx = retrieved_text(row, corpus)
     ctx_n = norm(ctx)
     ans_nums = extract_numbers(ans)
@@ -124,7 +128,7 @@ def deterministic_metrics(row: dict, corpus: dict) -> dict:
     #   in_corpus     —— 语料存在但不在记录的 top-10 里（测量局限：上下文只有 top-10 文件名）
     #   not_found     —— 语料里根本没有这个名字（真幻觉信号）
     cites = set()
-    for m in CITE_RE.finditer(ans):
+    for m in CITE_RE.finditer(ans_raw):
         cites.add(m.group(1))
     retrieved = row.get("retrievedFiles") or []
     corpus_keys = list(corpus.keys())
