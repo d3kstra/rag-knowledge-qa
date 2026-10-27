@@ -206,7 +206,9 @@ def call_judge(row: dict, corpus: dict, model: str, api_key: str, retries: int =
     expected = row.get("factsExpected") or []
     user = (
         f"【问题】{row.get('question')}\n\n"
-        f"【期望事实】{', '.join(expected) if expected else '（无，属于拒答/开放类）'}\n\n"
+        f"【期望事实】{', '.join(expected) if expected else '（无，属于拒答/开放类）'}\n"
+        f"【可接受替代】{', '.join(row.get('alternateFacts') or []) or '（无）'}"
+        f"（仅当答案明确指出冲突并说明采信依据时，满足替代项也算正确）\n\n"
         f"【检索到的文档内容】\n{ctx}\n\n"
         f"【待评答案】\n{(row.get('answer') or '')[:4000]}"
     )
